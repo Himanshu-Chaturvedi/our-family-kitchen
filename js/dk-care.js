@@ -1,4 +1,4 @@
-const DKCare = (() => {
+window.DKCare = (() => {
   const LIMIT_KEY = "ofk_dk_limits";
   const PLANNER_KEY = "ofk_dk_planner";
   const SHOP_KEY = "ofk_dk_shop";
@@ -125,7 +125,6 @@ const DKCare = (() => {
     const reasons = [];
 
     if (!lim.configured) {
-      // Without clinician-configured targets, never auto-promote to "within limits"
       if (status === STATUS.suitableWithin) status = STATUS.portion;
       reasons.push("Dietary limits are not configured yet — use clinician guidance.");
       return { status, reasons, labelKey: status };
@@ -143,7 +142,6 @@ const DKCare = (() => {
       return { status, reasons, labelKey: status };
     }
 
-    // Only compare when numbers exist AND limits configured
     const checks = [
       ["maxCarbsGPerMeal", n.carbs_g, "carbohydrate"],
       ["maxProteinGPerDay", n.protein_g, "protein"],

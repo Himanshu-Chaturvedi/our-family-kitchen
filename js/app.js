@@ -503,6 +503,18 @@
   function renderDkHub() {
     showView("dk");
     const root = $("#view-dk");
+    if (!root) {
+      toast("DK screen missing — please refresh");
+      return;
+    }
+    if (typeof DKCare === "undefined") {
+      root.innerHTML = `<div class="panel"><p>Care module script failed to load.</p><button class="btn btn-primary" onclick="location.reload()">Refresh</button></div>`;
+      return;
+    }
+    if (!state.dk || !state.dk.recipes) {
+      root.innerHTML = `<div class="panel"><p>Care recipes not loaded.</p><button class="btn btn-primary" onclick="location.reload()">Refresh</button></div>`;
+      return;
+    }
     const lim = DKCare.getLimits();
     root.innerHTML = `
       <div class="page-header">
@@ -916,22 +928,36 @@
       const q = $("#global-search").value.trim();
       Router.go("#/search/" + encodeURIComponent(q));
     };
-    $all("[data-go]").forEach((el) => {
-      el.addEventListener("click", () => Router.go(el.dataset.go));
-    });
+    // Event delegation — reliable for all data-go buttons (including DK module)
     document.body.addEventListener("click", (e) => {
       const backBtn = e.target.closest(".js-back");
       if (backBtn) {
         e.preventDefault();
         Router.back("#/home");
+        return;
+      }
+      const goEl = e.target.closest("[data-go]");
+      if (goEl) {
+        e.preventDefault();
+        const target = goEl.getAttribute("data-go");
+        if (target) Router.go(target);
+        return;
+      }
+      const navBtn = e.target.closest(".bottom-nav button[data-nav]");
+      if (navBtn) {
+        e.preventDefault();
+        const nav = navBtn.getAttribute("data-nav");
+        Router.go("#/" + nav, { replace: nav === "home" });
       }
     });
-    $all(".bottom-nav button").forEach((btn) => {
-      btn.addEventListener("click", () => {
-        // Bottom nav should not trap users in deep stacks
-        Router.go("#/" + btn.dataset.nav, { replace: btn.dataset.nav === "home" });
+    const dkBtn = $("#btn-dk-care");
+    if (dkBtn) {
+      dkBtn.addEventListener("click", (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        Router.go("#/dk");
       });
-    });
+    }
     $("#clear-finder").onclick = () => {
       state.selectedIngredients = [];
       renderFinder();
@@ -1011,7 +1037,8 @@
     Router.notify();
     if ("serviceWorker" in navigator) {
       try {
-        await navigator.serviceWorker.register("./service-worker.js");
+        const reg = await navigator.serviceWorker.register("./service-worker.js?v=4");
+        if (reg && reg.update) reg.update();
       } catch (e) {
         console.warn("SW registration failed", e);
       }

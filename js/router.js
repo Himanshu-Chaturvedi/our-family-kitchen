@@ -26,27 +26,26 @@ const Router = (() => {
   function go(path, opts = {}) {
     path = normalize(path);
     const replace = !!opts.replace;
+    const alreadyThere = normalize(location.hash || "#/home") === path;
 
-    if (normalize(location.hash || "#/home") === path) {
-      current = path;
-      notify();
-      return;
-    }
-
-    if (!replace && current && current !== path) {
+    if (!replace && !alreadyThere && current && current !== path) {
       stack.push(current);
       if (stack.length > 80) stack.shift();
     }
 
     current = path;
-    if (replace) {
+
+    if (replace || alreadyThere) {
       suppressHashPush = true;
       history.replaceState(history.state, "", location.pathname + location.search + path);
       suppressHashPush = false;
       notify();
-    } else {
-      location.hash = path; // includes leading #
+      return;
     }
+
+    // Set hash, then notify immediately (some mobile WebViews miss hashchange)
+    location.hash = path;
+    notify();
   }
 
   function back(fallback = "#/home") {
@@ -57,7 +56,13 @@ const Router = (() => {
   function notify() {
     current = normalize(location.hash || "#/home");
     const route = parse();
-    listeners.forEach((fn) => fn(route));
+    listeners.forEach((fn) => {
+      try {
+        fn(route);
+      } catch (err) {
+        console.error("Route handler error", route, err);
+      }
+    });
   }
 
   function onChange(fn) {
@@ -68,14 +73,9 @@ const Router = (() => {
     if (suppressHashPush) return;
     const next = normalize(location.hash || "#/home");
     if (current && current !== next) {
-      // Browser back: if next is already in stack, trim to it
       const idx = stack.lastIndexOf(next);
-      if (idx >= 0) {
-        stack.length = idx;
-      } else if (current !== next) {
-        // forward navigation via browser — keep current on stack
-        stack.push(current);
-      }
+      if (idx >= 0) stack.length = idx;
+      else stack.push(current);
     }
     current = next;
     notify();
@@ -83,9 +83,9 @@ const Router = (() => {
 
   current = normalize(location.hash || "#/home");
   if (!location.hash) {
-    history.replaceState(null, "", "#/home");
+    history.replaceState(null, "", location.pathname + location.search + "#/home");
     current = "#/home";
   }
 
-  return { parse, go, back, onChange, notify };
+  return { parse, go, back, onChange, notify, normalize };
 })();
