@@ -47,6 +47,12 @@
       "name": "Traditional",
       "nameHi": "पारंपरिक",
       "icon": "🪔"
+    },
+    {
+      "id": "Diabetes Special",
+      "name": "Diabetes Special",
+      "nameHi": "डायबिटीज स्पेशल",
+      "icon": "🩺"
     }
   ]
 }

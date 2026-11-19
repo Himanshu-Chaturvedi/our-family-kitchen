@@ -40,9 +40,18 @@
 
   function recipeEmoji(r) {
     const main = (r.mainIngredients || [])[0];
+    if ((r.categories || []).includes("Diabetes Special")) return "🩺";
     if ((r.categories || []).includes("Sweets")) return "🍮";
     if ((r.categories || []).includes("Breakfast")) return "🌅";
     return EMOJI[main] || EMOJI.default;
+  }
+
+  function stepsFor(r) {
+    return r.stepsHi && r.stepsHi.length ? r.stepsHi : r.steps || [];
+  }
+
+  function tipsFor(r) {
+    return r.tipsHi && r.tipsHi.length ? r.tipsHi : r.tips || [];
   }
 
   function currentSeason() {
@@ -159,7 +168,7 @@
     const favLabel = Storage.isFavourite(id) ? "❤️ Favourited" : "🤍 Favourite";
     root.innerHTML = `
       <div class="page-header">
-        <button class="back-btn" id="back-from-recipe">←</button>
+        <button type="button" class="back-btn" id="back-from-recipe" aria-label="Back">←</button>
         <h2>Recipe</h2>
       </div>
       <div class="detail-hero">
@@ -189,14 +198,15 @@
         <ul class="ingredient-list" id="ing-list"></ul>
       </div>
       <div class="panel">
-        <h3>Steps · विधि</h3>
-        <ol class="steps-list">${r.steps.map((s) => `<li>${s}</li>`).join("")}</ol>
+        <h3>विधि · Steps (Hinglish)</h3>
+        <ol class="steps-list">${stepsFor(r).map((s) => `<li>${s}</li>`).join("")}</ol>
       </div>
-      ${(r.tips || []).length ? `<div class="panel tips"><strong>Tips:</strong><br>${r.tips.join("<br>")}</div>` : ""}
+      ${tipsFor(r).length ? `<div class="panel tips"><strong>टिप्स:</strong><br>${tipsFor(r).join("<br>")}</div>` : ""}
+      ${r.diabetesNotes ? `<div class="panel tips"><strong>🩺 डायबिटीज नोट:</strong><br>${r.diabetesNotes}</div>` : ""}
       <div class="panel"><div class="meta">Categories: ${(r.categories || []).join(", ")} · Diet: ${r.diet}</div></div>
     `;
     renderIngredients(r);
-    $("#back-from-recipe").onclick = () => history.back();
+    $("#back-from-recipe").onclick = () => Router.back("#/home");
     $("#serve-minus").onclick = () => {
       if (state.servingCurrent > 1) {
         state.servingCurrent -= 1;
@@ -254,18 +264,18 @@
       </div>
       <div class="cooking-screen">
         <div class="cooking-step">
-          <div class="step-num">Step ${cur.index + 1} of ${cur.total}</div>
+          <div class="step-num">स्टेप ${cur.index + 1} / ${cur.total}</div>
           <p>${cur.text}</p>
         </div>
         <div class="cooking-nav">
-          <button class="btn btn-ghost" id="cook-prev" ${cur.isFirst ? "disabled" : ""}>← Previous</button>
-          <button class="btn btn-primary" id="cook-next">${cur.isLast ? "Done ✓" : "Next →"}</button>
+          <button class="btn btn-ghost" id="cook-prev" ${cur.isFirst ? "disabled" : ""}>← पिछला</button>
+          <button class="btn btn-primary" id="cook-next">${cur.isLast ? "हो गया ✓" : "अगला →"}</button>
         </div>
       </div>
     `;
     $("#exit-cook").onclick = () => {
       CookingMode.exit();
-      Router.go("#/recipe/" + cur.recipe.id);
+      Router.back("#/recipe/" + cur.recipe.id);
     };
     $("#cook-prev").onclick = () => paintCooking(CookingMode.prev());
     $("#cook-next").onclick = () => {
@@ -273,7 +283,7 @@
         Storage.markCooked(cur.recipe.id);
         CookingMode.exit();
         toast("शाबाश! Cooking done");
-        Router.go("#/recipe/" + cur.recipe.id);
+        Router.go("#/recipe/" + cur.recipe.id, { replace: true });
       } else paintCooking(CookingMode.next());
     };
   }
@@ -528,8 +538,18 @@
     $all("[data-go]").forEach((el) => {
       el.addEventListener("click", () => Router.go(el.dataset.go));
     });
+    document.body.addEventListener("click", (e) => {
+      const backBtn = e.target.closest(".js-back");
+      if (backBtn) {
+        e.preventDefault();
+        Router.back("#/home");
+      }
+    });
     $all(".bottom-nav button").forEach((btn) => {
-      btn.addEventListener("click", () => Router.go("#/" + btn.dataset.nav));
+      btn.addEventListener("click", () => {
+        // Bottom nav should not trap users in deep stacks
+        Router.go("#/" + btn.dataset.nav, { replace: btn.dataset.nav === "home" });
+      });
     });
     $("#clear-finder").onclick = () => {
       state.selectedIngredients = [];

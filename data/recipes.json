@@ -101,6 +101,16 @@
         "Dust with flour and roll into a round paratha of even thickness. Avoid tearing.",
         "Heat a tawa on medium flame. Cook the paratha on both sides, applying ghee, until golden brown spots appear.",
         "Serve hot with curd, pickle or butter."
+      ],
+      "stepsHi": [
+        "आटा नमक डालकर नरम गूंद लें। 15 मिनट ढककर रखें।",
+        "उबले आलू मैश करके हरी मिर्च, धनिया, अजवाइन, अमचूर और मसाले मिलाकर भरवन बनाएं।",
+        "लोई में भरवन रखें, बंद करें और हल्के हाथ से बेलें।",
+        "तवे पर दोनों तरफ घी लगाकर सुनहरा स्पॉट आने तक पकाएं।",
+        "गर्म-गर्म दही, मक्खन या अचार के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Mash potatoes while warm and dry them on the flame briefly if watery."
       ]
     },
     {
@@ -203,6 +213,16 @@
         "Dust with flour and roll into a round paratha of even thickness. Avoid tearing.",
         "Heat a tawa on medium flame. Cook the paratha on both sides, applying ghee, until golden brown spots appear.",
         "Serve hot with curd, pickle or butter."
+      ],
+      "stepsHi": [
+        "पनीर पराठा के लिए आटा नरम गूंद लें। 10–15 मिनट ढककर रख दें।",
+        "भरवन/मसाला तैयार करें — पनीर, आटा को मसाले और नमक के साथ मिलाएं (जहाँ भरवन हो)।",
+        "लोई बनाकर भरवन रखें, बंद करें और हल्के हाथ से बेलें। फटे नहीं, ध्यान रखें।",
+        "तवा गर्म करें। दोनों तरफ घी/तेल लगाकर सुनहरा होने तक पकाएं।",
+        "गर्म-गर्म दही, अचार या सब्ज़ी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Keep stuffing dry so the paratha does not break while rolling."
       ]
     },
     {
@@ -307,6 +327,16 @@
         "Dust with flour and roll into a round paratha of even thickness. Avoid tearing.",
         "Heat a tawa on medium flame. Cook the paratha on both sides, applying ghee, until golden brown spots appear.",
         "Serve hot with curd, pickle or butter."
+      ],
+      "stepsHi": [
+        "गोभी पराठा के लिए आटा नरम गूंद लें। 10–15 मिनट ढककर रख दें।",
+        "भरवन/मसाला तैयार करें — गोभी, आटा को मसाले और नमक के साथ मिलाएं (जहाँ भरवन हो)।",
+        "लोई बनाकर भरवन रखें, बंद करें और हल्के हाथ से बेलें। फटे नहीं, ध्यान रखें।",
+        "तवा गर्म करें। दोनों तरफ घी/तेल लगाकर सुनहरा होने तक पकाएं।",
+        "गर्म-गर्म दही, अचार या सब्ज़ी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Keep stuffing dry so the paratha does not break while rolling."
       ]
     },
     {
@@ -403,6 +433,16 @@
         "Dust with flour and roll into a round paratha of even thickness. Avoid tearing.",
         "Heat a tawa on medium flame. Cook the paratha on both sides, applying ghee, until golden brown spots appear.",
         "Serve hot with curd, pickle or butter."
+      ],
+      "stepsHi": [
+        "मूली पराठा के लिए आटा नरम गूंद लें। 10–15 मिनट ढककर रख दें।",
+        "भरवन/मसाला तैयार करें — radish, आटा को मसाले और नमक के साथ मिलाएं (जहाँ भरवन हो)।",
+        "लोई बनाकर भरवन रखें, बंद करें और हल्के हाथ से बेलें। फटे नहीं, ध्यान रखें।",
+        "तवा गर्म करें। दोनों तरफ घी/तेल लगाकर सुनहरा होने तक पकाएं।",
+        "गर्म-गर्म दही, अचार या सब्ज़ी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Keep stuffing dry so the paratha does not break while rolling."
       ]
     },
     {
@@ -414,7 +454,8 @@
         "Uttar Pradesh"
       ],
       "categories": [
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ajwain",
@@ -497,7 +538,18 @@
         "Divide into balls and roll into medium-thick parathas.",
         "Cook on a hot tawa with ghee until both sides are golden and crisp at the edges.",
         "Serve with curd or white butter."
-      ]
+      ],
+      "stepsHi": [
+        "मेथी पराठा के लिए आटा नरम गूंद लें। 10–15 मिनट ढककर रख दें।",
+        "भरवन/मसाला तैयार करें — मेथी, आटा को मसाले और नमक के साथ मिलाएं (जहाँ भरवन हो)।",
+        "लोई बनाकर भरवन रखें, बंद करें और हल्के हाथ से बेलें। फटे नहीं, ध्यान रखें।",
+        "तवा गर्म करें। दोनों तरफ घी/तेल लगाकर सुनहरा होने तक पकाएं।",
+        "गर्म-गर्म दही, अचार या सब्ज़ी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "If methi is bitter, soak chopped leaves in salted water 10 minutes, then squeeze."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -508,7 +560,8 @@
         "Uttar Pradesh"
       ],
       "categories": [
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "green-chilli",
@@ -584,7 +637,18 @@
         "Roll into parathas of even thickness.",
         "Cook on tawa with ghee until light brown spots appear on both sides.",
         "Serve hot with pickle or raita."
-      ]
+      ],
+      "stepsHi": [
+        "पालक पराठा के लिए आटा नरम गूंद लें। 10–15 मिनट ढककर रख दें।",
+        "भरवन/मसाला तैयार करें — पालक, आटा को मसाले और नमक के साथ मिलाएं (जहाँ भरवन हो)।",
+        "लोई बनाकर भरवन रखें, बंद करें और हल्के हाथ से बेलें। फटे नहीं, ध्यान रखें।",
+        "तवा गर्म करें। दोनों तरफ घी/तेल लगाकर सुनहरा होने तक पकाएं।",
+        "गर्म-गर्म दही, अचार या सब्ज़ी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Keep stuffing dry so the paratha does not break while rolling."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -600,7 +664,8 @@
       "categories": [
         "Breakfast",
         "Purvanchal Special",
-        "Lunch"
+        "Lunch",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "mustard-oil",
@@ -705,7 +770,18 @@
         "Dust with flour and roll into a round paratha of even thickness. Avoid tearing.",
         "Heat a tawa on medium flame. Cook the paratha on both sides, applying ghee, until golden brown spots appear.",
         "Serve hot with curd, pickle or butter."
-      ]
+      ],
+      "stepsHi": [
+        "सत्तू पराठा के लिए आटा नरम गूंद लें। 10–15 मिनट ढककर रख दें।",
+        "भरवन/मसाला तैयार करें — सत्तू, आटा को मसाले और नमक के साथ मिलाएं (जहाँ भरवन हो)।",
+        "लोई बनाकर भरवन रखें, बंद करें और हल्के हाथ से बेलें। फटे नहीं, ध्यान रखें।",
+        "तवा गर्म करें। दोनों तरफ घी/तेल लगाकर सुनहरा होने तक पकाएं।",
+        "गर्म-गर्म दही, अचार या सब्ज़ी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Authentic Purvanchal stuffing uses raw mustard oil and garlic for a sharp taste."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -800,6 +876,16 @@
         "Dust with flour and roll into a round paratha of even thickness. Avoid tearing.",
         "Heat a tawa on medium flame. Cook the paratha on both sides, applying ghee, until golden brown spots appear.",
         "Serve hot with curd, pickle or butter."
+      ],
+      "stepsHi": [
+        "दाल पराठा के लिए आटा नरम गूंद लें। 10–15 मिनट ढककर रख दें।",
+        "भरवन/मसाला तैयार करें — चना दाल, आटा को मसाले और नमक के साथ मिलाएं (जहाँ भरवन हो)।",
+        "लोई बनाकर भरवन रखें, बंद करें और हल्के हाथ से बेलें। फटे नहीं, ध्यान रखें।",
+        "तवा गर्म करें। दोनों तरफ घी/तेल लगाकर सुनहरा होने तक पकाएं।",
+        "गर्म-गर्म दही, अचार या सब्ज़ी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Keep stuffing dry so the paratha does not break while rolling."
       ]
     },
     {
@@ -895,6 +981,16 @@
         "Dust with flour and roll into a round paratha of even thickness. Avoid tearing.",
         "Heat a tawa on medium flame. Cook the paratha on both sides, applying ghee, until golden brown spots appear.",
         "Serve hot with curd, pickle or butter."
+      ],
+      "stepsHi": [
+        "प्याज पराठा के लिए आटा नरम गूंद लें। 10–15 मिनट ढककर रख दें।",
+        "भरवन/मसाला तैयार करें — onion, आटा को मसाले और नमक के साथ मिलाएं (जहाँ भरवन हो)।",
+        "लोई बनाकर भरवन रखें, बंद करें और हल्के हाथ से बेलें। फटे नहीं, ध्यान रखें।",
+        "तवा गर्म करें। दोनों तरफ घी/तेल लगाकर सुनहरा होने तक पकाएं।",
+        "गर्म-गर्म दही, अचार या सब्ज़ी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Keep stuffing dry so the paratha does not break while rolling."
       ]
     },
     {
@@ -997,6 +1093,16 @@
         "Dust with flour and roll into a round paratha of even thickness. Avoid tearing.",
         "Heat a tawa on medium flame. Cook the paratha on both sides, applying ghee, until golden brown spots appear.",
         "Serve hot with curd, pickle or butter."
+      ],
+      "stepsHi": [
+        "मिक्स वेज पराठा के लिए आटा नरम गूंद लें। 10–15 मिनट ढककर रख दें।",
+        "भरवन/मसाला तैयार करें — आलू, मटर, गाजर को मसाले और नमक के साथ मिलाएं (जहाँ भरवन हो)।",
+        "लोई बनाकर भरवन रखें, बंद करें और हल्के हाथ से बेलें। फटे नहीं, ध्यान रखें।",
+        "तवा गर्म करें। दोनों तरफ घी/तेल लगाकर सुनहरा होने तक पकाएं।",
+        "गर्म-गर्म दही, अचार या सब्ज़ी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Keep stuffing dry so the paratha does not break while rolling."
       ]
     },
     {
@@ -1092,6 +1198,16 @@
         "Dust with flour and roll into a round paratha of even thickness. Avoid tearing.",
         "Heat a tawa on medium flame. Cook the paratha on both sides, applying ghee, until golden brown spots appear.",
         "Serve hot with curd, pickle or butter."
+      ],
+      "stepsHi": [
+        "गाजर पराठा के लिए आटा नरम गूंद लें। 10–15 मिनट ढककर रख दें।",
+        "भरवन/मसाला तैयार करें — गाजर, आटा को मसाले और नमक के साथ मिलाएं (जहाँ भरवन हो)।",
+        "लोई बनाकर भरवन रखें, बंद करें और हल्के हाथ से बेलें। फटे नहीं, ध्यान रखें।",
+        "तवा गर्म करें। दोनों तरफ घी/तेल लगाकर सुनहरा होने तक पकाएं।",
+        "गर्म-गर्म दही, अचार या सब्ज़ी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Keep stuffing dry so the paratha does not break while rolling."
       ]
     },
     {
@@ -1187,6 +1303,16 @@
         "Dust with flour and roll into a round paratha of even thickness. Avoid tearing.",
         "Heat a tawa on medium flame. Cook the paratha on both sides, applying ghee, until golden brown spots appear.",
         "Serve hot with curd, pickle or butter."
+      ],
+      "stepsHi": [
+        "बेसन पराठा के लिए आटा नरम गूंद लें। 10–15 मिनट ढककर रख दें।",
+        "भरवन/मसाला तैयार करें — बेसन, आटा को मसाले और नमक के साथ मिलाएं (जहाँ भरवन हो)।",
+        "लोई बनाकर भरवन रखें, बंद करें और हल्के हाथ से बेलें। फटे नहीं, ध्यान रखें।",
+        "तवा गर्म करें। दोनों तरफ घी/तेल लगाकर सुनहरा होने तक पकाएं।",
+        "गर्म-गर्म दही, अचार या सब्ज़ी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Keep stuffing dry so the paratha does not break while rolling."
       ]
     },
     {
@@ -1200,7 +1326,8 @@
       "categories": [
         "Breakfast",
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "salt",
@@ -1255,7 +1382,18 @@
         "Roll again gently to medium thickness.",
         "Cook on a hot tawa, applying ghee on both sides, until golden and flaky.",
         "Serve with sabzi, dal or curd."
-      ]
+      ],
+      "stepsHi": [
+        "सादा पराठा के लिए आटा नरम गूंद लें। 10–15 मिनट ढककर रख दें।",
+        "भरवन/मसाला तैयार करें — आटा को मसाले और नमक के साथ मिलाएं (जहाँ भरवन हो)।",
+        "लोई बनाकर भरवन रखें, बंद करें और हल्के हाथ से बेलें। फटे नहीं, ध्यान रखें।",
+        "तवा गर्म करें। दोनों तरफ घी/तेल लगाकर सुनहरा होने तक पकाएं।",
+        "गर्म-गर्म दही, अचार या सब्ज़ी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Apply ghee between layers for flaky laccha-style paratha."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -1266,7 +1404,8 @@
         "Uttar Pradesh"
       ],
       "categories": [
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "oil",
@@ -1335,7 +1474,18 @@
         "Cook on tawa with ghee until both sides are spotted golden.",
         "Serve hot with curd or pickle.",
         "Store leftover dough covered for same-day use."
-      ]
+      ],
+      "stepsHi": [
+        "अजवाइन पराठा के लिए आटा नरम गूंद लें। 10–15 मिनट ढककर रख दें।",
+        "भरवन/मसाला तैयार करें — ajwain, आटा को मसाले और नमक के साथ मिलाएं (जहाँ भरवन हो)।",
+        "लोई बनाकर भरवन रखें, बंद करें और हल्के हाथ से बेलें। फटे नहीं, ध्यान रखें।",
+        "तवा गर्म करें। दोनों तरफ घी/तेल लगाकर सुनहरा होने तक पकाएं।",
+        "गर्म-गर्म दही, अचार या सब्ज़ी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Good for digestion; परोसें with curd."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -1348,7 +1498,8 @@
       ],
       "categories": [
         "Breakfast",
-        "Evening Snacks"
+        "Evening Snacks",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "curd",
@@ -1440,7 +1591,18 @@
         "Cook on a tawa on medium flame with little oil until both sides are golden.",
         "Cool completely if packing for travel; they stay soft for a day.",
         "Serve with curd, pickle or chai."
-      ]
+      ],
+      "stepsHi": [
+        "थेपला के लिए आटा नरम गूंद लें। 10–15 मिनट ढककर रख दें।",
+        "भरवन/मसाला तैयार करें — मेथी, आटा, बेसन को मसाले और नमक के साथ मिलाएं (जहाँ भरवन हो)।",
+        "लोई बनाकर भरवन रखें, बंद करें और हल्के हाथ से बेलें। फटे नहीं, ध्यान रखें।",
+        "तवा गर्म करें। दोनों तरफ घी/तेल लगाकर सुनहरा होने तक पकाएं।",
+        "गर्म-गर्म दही, अचार या सब्ज़ी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Curd keeps theplas soft for longer journeys."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -1532,6 +1694,16 @@
         "Make small balls, roll into thick puris.",
         "Deep fry in hot oil on medium flame until puffed and golden.",
         "Serve with spicy aloo sabzi or kaddu sabzi."
+      ],
+      "stepsHi": [
+        "बेडमी पूरी की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "Dough should be firmer than chapati dough so puris puff well."
       ]
     },
     {
@@ -1622,6 +1794,16 @@
         "Knead soft dough. Stuff each dough ball with dal filling, seal and roll carefully.",
         "Deep fry until golden and crisp.",
         "Serve with aloo rasedar or plain curd."
+      ],
+      "stepsHi": [
+        "दाल पूरी की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "Dry the filling well or puris will open while frying."
       ]
     },
     {
@@ -1721,6 +1903,16 @@
         "Stuff, seal and flatten into thick discs.",
         "Fry on low–medium flame for 8–10 minutes until crisp and layered.",
         "Serve with aloo sabzi and green chutney."
+      ],
+      "stepsHi": [
+        "उड़द दाल कचौरी की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "Low flame frying gives the khasta texture."
       ]
     },
     {
@@ -1826,6 +2018,16 @@
         "Stuff pea filling into dough balls, seal and flatten.",
         "Deep fry on medium-low heat until golden and crisp.",
         "Serve with green chutney or aloo sabzi."
+      ],
+      "stepsHi": [
+        "मटर कचौरी की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "Winter peas make the सबसे अच्छा matar kachori."
       ]
     },
     {
@@ -1930,6 +2132,16 @@
         "Stuff, seal and flatten into kachoris.",
         "Fry on medium flame until crisp and golden.",
         "Serve with tamarind chutney or raita."
+      ],
+      "stepsHi": [
+        "आलू कचौरी की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "मत over-wet the potato filling."
       ]
     },
     {
@@ -2027,6 +2239,16 @@
         "Deep fry until puffed and golden.",
         "Serve with aloo chokha or plain curd.",
         "Eat fresh for the best crunch."
+      ],
+      "stepsHi": [
+        "सत्तू पूरी की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "Same stuffing style as sattu paratha, but fried."
       ]
     },
     {
@@ -2110,6 +2332,16 @@
         "Deep fry until golden and puffed.",
         "Serve with chana or raita.",
         "Best eaten hot."
+      ],
+      "stepsHi": [
+        "आलू पूरी की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "Potato in dough keeps puris soft longer."
       ]
     },
     {
@@ -2241,6 +2473,16 @@
         "Add potato and peas with turmeric and salt. Cover and cook until soft.",
         "Add poha, mix gently on low flame 3–4 minutes so it absorbs flavours.",
         "Finish with coriander and a squeeze of lemon. Serve hot for breakfast."
+      ],
+      "stepsHi": [
+        "चूड़ा मटर के लिए पोहा, मटर धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Use thick chooda, not thin Indori poha."
       ]
     },
     {
@@ -2368,6 +2610,16 @@
         "Add tomato and spices; cook until oil separates.",
         "Add boiled chana with some cooking water. Simmer 10 minutes.",
         "Garnish with onion rings and coriander. Serve as breakfast or snack."
+      ],
+      "stepsHi": [
+        "kala-chana रात भर भिगोकर नरम होने तक प्रेशर कुक करें।",
+        "प्याज-टमाटर का मसाला अच्छे से भूनें। मसाले डालें।",
+        "उबली हुई दाल/चना डालकर 10–15 मिनट धीमी आंच पर पकाएं। कुछ दाने मैश कर लें — ग्रेवी अच्छी बनेगी।",
+        "गरम मसाला और धनिया डालें।",
+        "रोटी, चावल या कुलचा/पुरी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -2494,6 +2746,16 @@
         "Add peas and potato with a little water. Cover and cook until tender.",
         "Simmer until a thick, spoonable gravy forms.",
         "Serve with kachori, puri or plain roti."
+      ],
+      "stepsHi": [
+        "मटर रात भर भिगोकर नरम होने तक प्रेशर कुक करें।",
+        "प्याज-टमाटर का मसाला अच्छे से भूनें। मसाले डालें।",
+        "उबली हुई दाल/चना डालकर 10–15 मिनट धीमी आंच पर पकाएं। कुछ दाने मैश कर लें — ग्रेवी अच्छी बनेगी।",
+        "गरम मसाला और धनिया डालें।",
+        "रोटी, चावल या कुलचा/पुरी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -2511,7 +2773,8 @@
         "Lunch",
         "Dinner",
         "Purvanchal Special",
-        "Traditional"
+        "Traditional",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "mustard-oil",
@@ -2616,7 +2879,18 @@
         "Stuff dough balls with sattu, seal into round littis.",
         "Roast on coal, in a tandoor, or bake at 200°C for 25–30 minutes, turning until cracked and browned. Alternatively cook on gas tandoor/grill.",
         "Crack open hot littis, dunk generously in ghee. Serve with chokha."
-      ]
+      ],
+      "stepsHi": [
+        "सत्तू लिट्टी की पारंपरिक तैयारी शुरू करें — सत्तू, आटा तैयार रखें।",
+        "मसाला/भरवन में सरसों तेल, लहसुन, अदरक और मसाले अच्छी तरह मिलाएं।",
+        "पकाने का तरीका अपनाएं (सेकना/भाप/तड़का) — धीमी आंच पर पूरा पकने दें।",
+        "नमक और तीखापन चखकर ठीक करें।",
+        "घी या चोखा/चावल के साथ गरमागरम परोसें।"
+      ],
+      "tipsHi": [
+        "Traditional taste needs raw mustard oil and garlic in the sattu."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -2729,6 +3003,16 @@
         "Mash each separately or together with raw onion, garlic, chilli, mustard oil and salt — this is chokha.",
         "Arrange littis with baingan chokha, aloo chokha and tamatar chokha on a plate.",
         "Serve immediately with extra ghee and green chilli."
+      ],
+      "stepsHi": [
+        "सत्तू लिट्टी तैयार रखें (सत्तू में सरसों तेल, लहसुन, अचार मसाला)।",
+        "बैंगन, टमाटर, आलू सीधे आंच पर सेकें। छिलका उतारें।",
+        "कच्चा प्याज-लहसुन-मिर्च, नमक और कच्चा सरसों तेल मिलाकर चोखा बनाएं।",
+        "गर्म लिट्टी को घी में डुबोएं।",
+        "लिट्टी के साथ तीनों चोखा प्लेट में परोसें।"
+      ],
+      "tipsHi": [
+        "Flame-roasting gives the authentic smoky chokha flavour."
       ]
     },
     {
@@ -2744,7 +3028,8 @@
       "categories": [
         "Breakfast",
         "Lunch",
-        "Purvanchal Special"
+        "Purvanchal Special",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ginger",
@@ -2821,7 +3106,18 @@
         "Steam in a steamer or idli cooker for 15–18 minutes until cooked through.",
         "Optionally temper with mustard oil, garlic and chilli before serving.",
         "Serve hot with chutney or ghee."
-      ]
+      ],
+      "stepsHi": [
+        "चना दाल, आटा धोकर हल्दी-नमक के साथ नरम होने तक उबालें/प्रेशर कुक करें। हल्के हाथ से मैश करें।",
+        "घी/तेल में जीरा, हींग, लहसुन-प्याज का तड़का लगाएं।",
+        "टमाटर और मसाले भूनकर दाल में मिलाएं।",
+        "गाढ़ापन देखकर पानी मिलाएं। 5–8 मिनट हल्की आंच पर पकाएं।",
+        "ऊपर से घी और धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "मत overfill or pithas may open while steaming."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -2921,6 +3217,16 @@
         "Steam 15–20 minutes until firm.",
         "Slice steamed faras. Temper mustard oil with garlic and red chilli; toss slices until lightly crisp.",
         "Serve with green chutney."
+      ],
+      "stepsHi": [
+        "फरा / गोंझा की पारंपरिक तैयारी शुरू करें — चना दाल, चावल तैयार रखें।",
+        "मसाला/भरवन में सरसों तेल, लहसुन, अदरक और मसाले अच्छी तरह मिलाएं।",
+        "पकाने का तरीका अपनाएं (सेकना/भाप/तड़का) — धीमी आंच पर पूरा पकने दें।",
+        "नमक और तीखापन चखकर ठीक करें।",
+        "घी या चोखा/चावल के साथ गरमागरम परोसें।"
+      ],
+      "tipsHi": [
+        "In Jaunpur homes, tempered fara is a rainy-day favourite."
       ]
     },
     {
@@ -2936,7 +3242,8 @@
       "categories": [
         "Breakfast",
         "Evening Snacks",
-        "Purvanchal Special"
+        "Purvanchal Special",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ginger",
@@ -3020,7 +3327,18 @@
         "Steam 12–15 minutes until cooked and springy.",
         "Optionally pan-sear lightly in mustard oil.",
         "Serve with coriander chutney or tomato chutney."
-      ]
+      ],
+      "stepsHi": [
+        "बफौरी की पारंपरिक तैयारी शुरू करें — चना दाल तैयार रखें।",
+        "मसाला/भरवन में सरसों तेल, लहसुन, अदरक और मसाले अच्छी तरह मिलाएं।",
+        "पकाने का तरीका अपनाएं (सेकना/भाप/तड़का) — धीमी आंच पर पूरा पकने दें।",
+        "नमक और तीखापन चखकर ठीक करें।",
+        "घी या चोखा/चावल के साथ गरमागरम परोसें।"
+      ],
+      "tipsHi": [
+        "Healthier steamed cousin of dal pakora — popular in Purvanchal kitchens."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -3137,6 +3455,16 @@
         "Add onion and potato; cook until potato is soft.",
         "Add poha, mix gently on low flame 2–3 minutes.",
         "Finish with lemon juice and coriander. Serve hot."
+      ],
+      "stepsHi": [
+        "वेजिटेबल पोहा का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "पोहा और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "मत soak poha in water or it turns mushy."
       ]
     },
     {
@@ -3253,6 +3581,16 @@
         "Add green chilli, then poha. Mix gently.",
         "Cover 1 minute on low flame.",
         "Serve with lemon, coriander and optionally sev."
+      ],
+      "stepsHi": [
+        "कांदा पोहा का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "पोहा, onion और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "Onion-forward is the hallmark of kanda poha."
       ]
     },
     {
@@ -3368,6 +3706,16 @@
         "Plate poha, top generously with nylon sev.",
         "Add chopped onion, coriander, lemon and pomegranate if available.",
         "Serve immediately so sev stays crisp."
+      ],
+      "stepsHi": [
+        "इंदौरी पोहा का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "पोहा और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "Sev on top is essential for Indori style."
       ]
     },
     {
@@ -3380,7 +3728,8 @@
         "North India"
       ],
       "categories": [
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "carrot",
@@ -3470,7 +3819,18 @@
         "Add water and salt; bring to a boil.",
         "Lower flame, add roasted suji gradually while stirring to avoid lumps.",
         "Cover 2 minutes. Fluff and serve with coconut chutney or lemon."
-      ]
+      ],
+      "stepsHi": [
+        "वेजिटेबल उपमा का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "सूजी और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "Roasting suji prevents raw taste and stickiness."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -3482,7 +3842,8 @@
         "North India"
       ],
       "categories": [
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -3565,7 +3926,18 @@
         "Add water and salt; bring to boil.",
         "Add vermicelli, cook on low until water is absorbed and strands are soft.",
         "Serve hot with coconut chutney."
-      ]
+      ],
+      "stepsHi": [
+        "सेवई उपमा का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "vermicelli और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "Use slightly less water than suji upma."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -3577,7 +3949,8 @@
       ],
       "categories": [
         "Breakfast",
-        "Evening Snacks"
+        "Evening Snacks",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -3667,7 +4040,18 @@
         "Heat a tawa, grease lightly, pour a ladle and spread into a thin circle.",
         "Drizzle oil, cook both sides until golden and cooked in the centre.",
         "Serve with green chutney or tomato ketchup."
-      ]
+      ],
+      "stepsHi": [
+        "बेसन चीला का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "बेसन और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "Spread thin for crisp edges."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -3679,7 +4063,8 @@
       ],
       "categories": [
         "Breakfast",
-        "Evening Snacks"
+        "Evening Snacks",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ginger",
@@ -3749,7 +4134,18 @@
         "Cook both sides with little oil until light brown spots appear.",
         "Optionally sprinkle chopped onion or paneer on top while cooking.",
         "Serve with mint chutney."
-      ]
+      ],
+      "stepsHi": [
+        "मूंग दाल चीला का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "मूंग दाल और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "मत make batter too watery."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -3836,6 +4232,16 @@
         "Press gently so paneer cooks into the chilla.",
         "Cut into wedges if large.",
         "Serve hot with chutney."
+      ],
+      "stepsHi": [
+        "पनीर चीला का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "बेसन, पनीर और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "Spread thin for crisp edges."
       ]
     },
     {
@@ -3847,7 +4253,8 @@
       ],
       "categories": [
         "Breakfast",
-        "Evening Snacks"
+        "Evening Snacks",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "curd",
@@ -3930,7 +4337,18 @@
         "Spread on greased tawa; cook both sides until crisp.",
         "Serve immediately.",
         "Batter thickens on standing — loosen with a spoon of water if needed."
-      ]
+      ],
+      "stepsHi": [
+        "सूजी चीला का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "सूजी और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "Spread thin for crisp edges."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -3940,7 +4358,8 @@
         "South India"
       ],
       "categories": [
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "tamarind",
@@ -4039,7 +4458,18 @@
         "In a pot, sauté onion and tomato, add sambar powder, tamarind water and salt. Boil 5 minutes.",
         "Add dal and simmer. Temper mustard seeds and curry leaves in oil; pour over sambar.",
         "Serve soft idlis with hot sambar and coconut chutney."
-      ]
+      ],
+      "stepsHi": [
+        "इडली सांभर का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "idli-rice, urad-dal, अरहर दाल और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "Use well-fermented batter for soft idlis."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -4141,6 +4571,16 @@
         "When the underside is golden, place potato masala in the centre.",
         "Fold the dosa and roast a few more seconds.",
         "Serve with coconut chutney and sambar."
+      ],
+      "stepsHi": [
+        "मसाला डोसा का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "idli-rice, आलू और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "Tawa must be hot, then slightly cooled before spreading batter."
       ]
     },
     {
@@ -4202,6 +4642,16 @@
         "Cook until crisp and golden; flip briefly if needed.",
         "Fold and serve hot.",
         "Pair with chutney and sambar."
+      ],
+      "stepsHi": [
+        "सादा डोसा का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "idli-rice, urad-dal और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "For crisp dosa, batter should be slightly thin."
       ]
     },
     {
@@ -4303,6 +4753,16 @@
         "Drizzle oil in the holes; cook until crisp and golden.",
         "Fold and serve immediately.",
         "Stir batter each time before pouring."
+      ],
+      "stepsHi": [
+        "रवा डोसा का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "सूजी, चावल और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "Batter must be thin for the classic lace texture."
       ]
     },
     {
@@ -4391,6 +4851,16 @@
         "Drizzle oil around edges. Cook until base is golden.",
         "Flip carefully and cook the topped side 1–2 minutes.",
         "Serve with sambar and chutney."
+      ],
+      "stepsHi": [
+        "उत्तपम का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "idli-rice, onion और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "Medium flame keeps the centre cooked without burning."
       ]
     },
     {
@@ -4482,6 +4952,16 @@
         "Pour batter three-quarters full. Cover and cook 2–3 minutes.",
         "Flip each appe with a skewer; cook until golden on both sides.",
         "Serve with coconut chutney."
+      ],
+      "stepsHi": [
+        "आप्पे की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "Appe mould must be well heated before pouring."
       ]
     },
     {
@@ -4604,6 +5084,16 @@
         "Steam 15–18 minutes until a knife comes out clean. Cool slightly and cut squares.",
         "Temper mustard seeds, curry leaves and slit chilli in oil; add a little water and sugar, pour over dhokla.",
         "Garnish with coriander and serve."
+      ],
+      "stepsHi": [
+        "ढोकला का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "बेसन और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "Add Eno only just before steaming."
       ]
     },
     {
@@ -4615,7 +5105,8 @@
         "North India"
       ],
       "categories": [
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "carrot",
@@ -4698,7 +5189,18 @@
         "Add daliya, water and salt. Pressure cook 3 whistles.",
         "Rest 5 minutes, open and fluff.",
         "Serve with curd or pickle."
-      ]
+      ],
+      "stepsHi": [
+        "वेजिटेबल दलिया का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "daliya और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "For softer daliya use more water."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -4786,6 +5288,16 @@
         "Toast on a sandwich maker or tawa until golden.",
         "Cut diagonally and serve hot.",
         "Optional: add green chutney inside."
+      ],
+      "stepsHi": [
+        "पनीर सैंडविच का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "पनीर, bread और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "मत overfill or filling spills while toasting."
       ]
     },
     {
@@ -4882,6 +5394,16 @@
         "Close sandwich; toast lightly or serve fresh Bombay style.",
         "Cut into triangles.",
         "Serve with ketchup."
+      ],
+      "stepsHi": [
+        "वेजिटेबल सैंडविच का बैटर/मिक्स तैयार करें। नमक और मसाला चखकर ठीक करें।",
+        "तवा या बर्तन गर्म करें। जरूरत हो तो हल्का तेल लगाएं।",
+        "bread, आलू और बाकी सामग्री डालकर मध्यम आंच पर पकाएं। बीच-बीच में हिलाएं/पलटें।",
+        "जब पक जाए और सुगंध आ जाए, आंच बंद करें।",
+        "चटनी, सांभर या दही के साथ गर्म परोसें।"
+      ],
+      "tipsHi": [
+        "Boil potatoes in advance for quick assembly."
       ]
     },
     {
@@ -5020,6 +5542,16 @@
         "Add chilli powder, salt and a little water; simmer into a rich gravy.",
         "Add paneer cubes and cream. Simmer 5 minutes on low — do not boil hard.",
         "Finish with garam masala and kasuri methi. Serve with naan or roti."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "White/shahi gravy uses more cashew and less red chilli for a milder look."
       ]
     },
     {
@@ -5160,6 +5692,16 @@
         "Add paneer cubes and simmer 5–7 minutes.",
         "Finish with garam masala and coriander.",
         "Serve with roti, paratha or jeera rice."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर, मटर डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Add paneer at the end so it stays soft."
       ]
     },
     {
@@ -5172,7 +5714,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -5298,7 +5841,18 @@
         "Add spinach puree and simmer 5 minutes. Adjust salt.",
         "Add paneer cubes; cook 4–5 minutes on low.",
         "Optional: swirl cream. Serve with roti or jeera rice."
-      ]
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर, पालक डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Blanching keeps the palak bright green."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -5430,6 +5984,16 @@
         "Add salt, sugar pinch, chilli powder and kasuri methi.",
         "Add paneer and cream; simmer gently 5 minutes.",
         "Finish with a dollop of butter. Serve with naan or jeera rice."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "A pinch of sugar balances tomato tang."
       ]
     },
     {
@@ -5574,6 +6138,16 @@
         "In same pan make onion-tomato gravy; add kadai masala and spices.",
         "Add paneer, capsicum and onion; toss on high flame 3–4 minutes.",
         "Finish with garam masala and ginger juliennes."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर, capsicum डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "High flame toss keeps capsicum crisp."
       ]
     },
     {
@@ -5705,6 +6279,16 @@
         "Add tomato and spices; cook until soft.",
         "Add crumbled paneer, mix on medium flame 3–4 minutes. Do not overcook.",
         "Garnish with coriander. Serve with pav, roti or as sandwich filling."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Overcooking makes bhurji rubbery."
       ]
     },
     {
@@ -5842,6 +6426,16 @@
         "Add paneer and the sautéed onion petals.",
         "Simmer 5 minutes so onions stay chunky (do pyaza style).",
         "Finish with garam masala and coriander."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Add paneer at the end so it stays soft."
       ]
     },
     {
@@ -5973,6 +6567,16 @@
         "Add paneer cubes and a little cream; simmer gently.",
         "Optionally add grated paneer into gravy for texture.",
         "Serve with butter naan or laccha paratha."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Add paneer at the end so it stays soft."
       ]
     },
     {
@@ -6119,6 +6723,16 @@
         "Add paneer and a splash of water; coat well and simmer 5 minutes.",
         "Finish with coriander and lemon.",
         "Serve with missi roti or plain roti."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Mustard oil gives authentic achari aroma."
       ]
     },
     {
@@ -6131,7 +6745,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -6257,7 +6872,18 @@
         "Combine methi and gravy; simmer 3 minutes.",
         "Add paneer cubes; cook 5 minutes on low.",
         "Serve with roti or paratha."
-      ]
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर, मेथी डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Sauté methi well to reduce bitterness."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -6387,6 +7013,16 @@
         "Prepare smooth onion-tomato-cashew gravy; cook with spices until rich.",
         "Add cream. Just before serving, place koftas in gravy (do not boil long or they break).",
         "Garnish with cream and coriander. Serve with naan."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर, आलू डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Add koftas only at serving time."
       ]
     },
     {
@@ -6525,6 +7161,16 @@
         "Add paneer and capsicum; toss 4–5 minutes.",
         "Finish with amchur and garam masala.",
         "Serve as a dry sabzi with roti."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर, capsicum डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Add paneer at the end so it stays soft."
       ]
     },
     {
@@ -6670,6 +7316,16 @@
         "Add paneer strips; toss quickly.",
         "Finish with vinegar or lemon and garam masala.",
         "Serve hot with roti or as a side."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर, capsicum डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Jalfrezi is quick-cooked — keep vegetables crisp."
       ]
     },
     {
@@ -6801,6 +7457,16 @@
         "Add paneer and simmer covered 8–10 minutes so flavours infuse.",
         "Finish with cream and kasuri methi.",
         "Serve with naan or rice."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Add paneer at the end so it stays soft."
       ]
     },
     {
@@ -6932,6 +7598,16 @@
         "Add paneer and simmer gently with cream and kasuri methi.",
         "Do not over-boil after adding cream.",
         "Serve with butter naan or jeera rice."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Similar to butter masala; makhani leans more tomato-butter forward."
       ]
     },
     {
@@ -7049,6 +7725,16 @@
         "Prepare rich onion-tomato-cashew gravy.",
         "Place pasanda pieces in gravy; simmer gently 5 minutes.",
         "Finish with cream and serve with sheermal or naan."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Handle stuffed paneer gently so filling does not fall out."
       ]
     },
     {
@@ -7194,6 +7880,16 @@
         "Add grilled paneer tikka pieces into the gravy.",
         "Simmer 3–4 minutes so smoky flavour mixes in.",
         "Serve with naan or pulao."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "पनीर डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Char the tikka slightly for restaurant-style flavour."
       ]
     },
     {
@@ -7345,6 +8041,16 @@
         "Add methi, peas, salt and mild spices (go easy on turmeric).",
         "Add cream and simmer 5 minutes on low.",
         "Serve with naan or paratha."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "मेथी, मटर, cream डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Mild, creamy and slightly sweet — avoid heavy red chilli."
       ]
     },
     {
@@ -7448,6 +8154,16 @@
         "Cover and cook on low, stirring occasionally, until both are tender (12–15 min).",
         "Finish with garam masala and amchur. Optional: tomato for slight gravy.",
         "Garnish with coriander. Serve with roti."
+      ],
+      "stepsHi": [
+        "आलू गोभी के लिए आलू, गोभी धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -7559,6 +8275,16 @@
         "Cover and cook until potato is soft and gravy thickens.",
         "Add garam masala.",
         "Serve with roti or rice."
+      ],
+      "stepsHi": [
+        "आलू मटर के लिए आलू, मटर धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -7668,6 +8394,16 @@
         "Cover and cook on low until both are soft, stirring gently so baingan does not mash too early.",
         "Finish with coriander.",
         "Serve with roti or dal-chawal."
+      ],
+      "stepsHi": [
+        "आलू बैंगन के लिए आलू, बैंगन धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -7678,7 +8414,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "salt",
@@ -7762,7 +8499,18 @@
         "Add methi, mix and cook 5 more minutes.",
         "Finish dry or semi-dry as preferred.",
         "Serve with dal and roti."
-      ]
+      ],
+      "stepsHi": [
+        "आलू मेथी के लिए आलू, मेथी धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Sauté methi to cut bitterness."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -7856,6 +8604,16 @@
         "Finish with amchur.",
         "Garnish with coriander.",
         "Serve with roti."
+      ],
+      "stepsHi": [
+        "आलू बीन्स के लिए आलू, beans धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -7950,6 +8708,16 @@
         "Add amchur and garam masala.",
         "Toss well 2 minutes.",
         "Serve as dry sabzi with roti."
+      ],
+      "stepsHi": [
+        "आलू शिमला मिर्च के लिए आलू, capsicum धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -8056,6 +8824,16 @@
         "Add 1.5 cups water; simmer until potato is soft and gravy is pourable.",
         "This is classic UP-style rasedar aloo for puri.",
         "Finish with coriander and garam masala."
+      ],
+      "stepsHi": [
+        "आलू टमाटर रसेदार के लिए आलू, tomato धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -8171,6 +8949,16 @@
         "Add fried potatoes and spices; add little water.",
         "Cover and dum-cook on low 15 minutes.",
         "Serve with naan or rice."
+      ],
+      "stepsHi": [
+        "दम आलू के लिए आलू धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -8181,7 +8969,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "salt",
@@ -8264,7 +9053,18 @@
         "Toss on medium-high until edges crisp slightly.",
         "Finish with coriander.",
         "Excellent with kadhi or dal."
-      ]
+      ],
+      "stepsHi": [
+        "जीरा आलू के लिए आलू, cumin धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -8358,6 +9158,16 @@
         "Can be dry or with little water.",
         "Finish with garlic tadka optional.",
         "Serve with roti or rice."
+      ],
+      "stepsHi": [
+        "आलू पालक के लिए आलू, पालक धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -8452,6 +9262,16 @@
         "Add peas optionally in winter.",
         "Finish with amchur.",
         "Serve with roti."
+      ],
+      "stepsHi": [
+        "आलू गाजर के लिए आलू, गाजर धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -8547,6 +9367,16 @@
         "Finish with amchur.",
         "Common UP summer sabzi.",
         "Serve with dal-roti."
+      ],
+      "stepsHi": [
+        "आलू परवल के लिए आलू, parwal धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -8648,6 +9478,16 @@
         "Light home-style sabzi.",
         "Finish with coriander.",
         "Serve with roti."
+      ],
+      "stepsHi": [
+        "आलू लौकी के लिए आलू, लौकी धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -8742,6 +9582,16 @@
         "Finish with amchur.",
         "Serve with roti.",
         "Popular North Indian summer dish."
+      ],
+      "stepsHi": [
+        "आलू टिंडा के लिए आलू, tinda धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -8835,6 +9685,16 @@
         "Cook covered; mash lightly for a soft texture.",
         "Add amchur or lemon for tang.",
         "Serve with roti or puri."
+      ],
+      "stepsHi": [
+        "आलू कद्दू के लिए आलू, कद्दू धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -8929,6 +9789,16 @@
         "Mix onions back; toss on high flame.",
         "Finish with amchur.",
         "Serve dry with dal."
+      ],
+      "stepsHi": [
+        "आलू प्याज के लिए आलू, onion धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -8945,7 +9815,8 @@
         "Lunch",
         "Dinner",
         "Purvanchal Special",
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -9022,7 +9893,18 @@
         "Mix vigorously so oil emulsifies into the mash.",
         "Garnish with coriander.",
         "Serve with litti, dal-chawal or roti."
-      ]
+      ],
+      "stepsHi": [
+        "आलू चोखा की पारंपरिक तैयारी शुरू करें — आलू तैयार रखें।",
+        "मसाला/भरवन में सरसों तेल, लहसुन, अदरक और मसाले अच्छी तरह मिलाएं।",
+        "पकाने का तरीका अपनाएं (सेकना/भाप/तड़का) — धीमी आंच पर पूरा पकने दें।",
+        "नमक और तीखापन चखकर ठीक करें।",
+        "घी या चोखा/चावल के साथ गरमागरम परोसें।"
+      ],
+      "tipsHi": [
+        "Raw mustard oil is essential for authentic chokha taste."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -9149,6 +10031,16 @@
         "Add onion, turmeric, chilli, coriander powder and salt.",
         "Add drained rice; sauté 1 minute. Add 3 cups water. Cook covered until rice and potato are done (or 1 whistle).",
         "Rest 5 minutes. Fluff and serve with pickle or curd — classic Purvanchal one-pot meal."
+      ],
+      "stepsHi": [
+        "चावल धोकर 15–20 मिनट भिगो दें (खिचड़ी में दाल भी साथ धोएं)।",
+        "घी/तेल में खड़े मसाले और प्याज भूनें। आलू, चावल डालकर हल्के से भूनें।",
+        "चावल डालें, पानी और नमक मिलाएं। ढककर धीमी आंच पर पकाएं।",
+        "पकने के बाद 5 मिनट ढककर रखें, फिर हल्के हाथ से फुलफुलाएं।",
+        "रायता, अचार या सब्ज़ी/दाल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Mustard oil and big potato chunks define home-style tahri."
       ]
     },
     {
@@ -9291,6 +10183,16 @@
         "Add tomato and spices; cook until oil separates.",
         "Add potato cubes and ground peas. Sauté 4–5 minutes. Add water for a thick gravy.",
         "Simmer until potatoes are soft and nimona thickens. Finish with garam masala. Serve with plain rice — Jaunpur winter classic."
+      ],
+      "stepsHi": [
+        "ताज़ा मटर धोकर मोटा-मोटा पीस लें — बिल्कुल महीन पेस्ट नहीं।",
+        "सरसों तेल धुआं आने तक गरम करें, थोड़ा ठंडा करके जीरा-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले डालकर भूनें। आलू और पिसे मटर डालकर 4–5 मिनट भूनें।",
+        "पानी डालकर गाढ़ी ग्रेवी में पकाएं जब तक आलू नरम हो जाएं।",
+        "गरम मसाला डालकर सादे चावल के साथ परोसें — जौनपुर की सर्दियों वाली क्लासिक।"
+      ],
+      "tipsHi": [
+        "Fresh winter peas are non-negotiable for real nimona flavour."
       ]
     },
     {
@@ -9409,6 +10311,16 @@
         "Add tomato masala, spices and water.",
         "Simmer until thick and aromatic.",
         "Serve with steamed rice."
+      ],
+      "stepsHi": [
+        "आलू मटर निमोना की पारंपरिक तैयारी शुरू करें — मटर, आलू तैयार रखें।",
+        "मसाला/भरवन में सरसों तेल, लहसुन, अदरक और मसाले अच्छी तरह मिलाएं।",
+        "पकाने का तरीका अपनाएं (सेकना/भाप/तड़का) — धीमी आंच पर पूरा पकने दें।",
+        "नमक और तीखापन चखकर ठीक करें।",
+        "घी या चोखा/चावल के साथ गरमागरम परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -9524,6 +10436,16 @@
         "Add badis and potato; simmer gently so badis absorb gravy without breaking.",
         "Adjust salt and chilli.",
         "Serve with rice — a hearty Purvanchal variation."
+      ],
+      "stepsHi": [
+        "बड़ी वाला मटर निमोना की पारंपरिक तैयारी शुरू करें — मटर, badi तैयार रखें।",
+        "मसाला/भरवन में सरसों तेल, लहसुन, अदरक और मसाले अच्छी तरह मिलाएं।",
+        "पकाने का तरीका अपनाएं (सेकना/भाप/तड़का) — धीमी आंच पर पूरा पकने दें।",
+        "नमक और तीखापन चखकर ठीक करें।",
+        "घी या चोखा/चावल के साथ गरमागरम परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -9634,6 +10556,16 @@
         "Add peas and mushrooms; simmer 8–10 minutes.",
         "Finish with garam masala and cream optional.",
         "Serve with roti or jeera rice."
+      ],
+      "stepsHi": [
+        "मटर मशरूम के लिए मटर, मशरूम धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -9735,6 +10667,16 @@
         "Add garam masala.",
         "Garnish with coriander.",
         "Serve with paratha or puri."
+      ],
+      "stepsHi": [
+        "मटर मसाला के लिए मटर धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -9851,6 +10793,16 @@
         "Add 2.75 cups water and salt. Cook covered on low until done (or pressure 1 whistle).",
         "Rest 5 minutes; fluff.",
         "Serve with raita or curry."
+      ],
+      "stepsHi": [
+        "चावल धोकर 15–20 मिनट भिगो दें (खिचड़ी में दाल भी साथ धोएं)।",
+        "घी/तेल में खड़े मसाले और प्याज भूनें। मटर, चावल डालकर हल्के से भूनें।",
+        "चावल डालें, पानी और नमक मिलाएं। ढककर धीमी आंच पर पकाएं।",
+        "पकने के बाद 5 मिनट ढककर रखें, फिर हल्के हाथ से फुलफुलाएं।",
+        "रायता, अचार या सब्ज़ी/दाल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -9962,6 +10914,16 @@
         "Add water and cook until fluffy.",
         "Rest and serve with mango pickle.",
         "Winter favourite across Awadh and Purvanchal."
+      ],
+      "stepsHi": [
+        "चावल धोकर 15–20 मिनट भिगो दें (खिचड़ी में दाल भी साथ धोएं)।",
+        "घी/तेल में खड़े मसाले और प्याज भूनें। मटर, चावल, आलू डालकर हल्के से भूनें।",
+        "चावल डालें, पानी और नमक मिलाएं। ढककर धीमी आंच पर पकाएं।",
+        "पकने के बाद 5 मिनट ढककर रखें, फिर हल्के हाथ से फुलफुलाएं।",
+        "रायता, अचार या सब्ज़ी/दाल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -10071,6 +11033,16 @@
         "Add koftas just before serving; simmer 3 minutes.",
         "Garnish with coriander.",
         "Serve with roti or pulao."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "मटर, आलू डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Add koftas late so they मत break."
       ]
     },
     {
@@ -10172,6 +11144,16 @@
         "Simmer until soft.",
         "Finish with garam masala.",
         "Serve with plain rice or puri."
+      ],
+      "stepsHi": [
+        "मटर आलू रसेदार के लिए मटर, आलू धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -10182,7 +11164,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -10273,7 +11256,18 @@
         "Add onion, tomato and spices; cook until masala coats bhindi.",
         "Finish with amchur.",
         "Serve with roti and dal."
-      ]
+      ],
+      "stepsHi": [
+        "भिंडी मसाला के लिए भिंडी धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Dry bhindi well to avoid sliminess."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -10283,7 +11277,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "salt",
@@ -10367,7 +11362,18 @@
         "Add spices and amchur.",
         "Keep semi-dry.",
         "Serve with dal-roti."
-      ]
+      ],
+      "stepsHi": [
+        "भिंडी दो प्याज़ा के लिए भिंडी, onion धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -10378,7 +11384,8 @@
       "categories": [
         "Lunch",
         "Dinner",
-        "Evening Snacks"
+        "Evening Snacks",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "rice",
@@ -10469,7 +11476,18 @@
         "Drain on paper.",
         "Serve as side or snack.",
         "Sprinkle chaat masala."
-      ]
+      ],
+      "stepsHi": [
+        "कुरकुरी भिंडी के लिए भिंडी, बेसन धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -10563,6 +11581,16 @@
         "Keep dry.",
         "Finish with amchur.",
         "Serve with roti."
+      ],
+      "stepsHi": [
+        "आलू भिंडी के लिए आलू, भिंडी धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -10670,6 +11698,16 @@
         "Shallow fry covered on low flame, turning occasionally, until cooked.",
         "Do not add water.",
         "Serve with dal."
+      ],
+      "stepsHi": [
+        "भरवा भिंडी के लिए भिंडी धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -10764,6 +11802,16 @@
         "Stir continuously so curd does not split.",
         "Add bhindi; simmer 3 minutes.",
         "Serve with roti or rice."
+      ],
+      "stepsHi": [
+        "दही भिंडी के लिए भिंडी, दही धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Add curd on low flame only."
       ]
     },
     {
@@ -10865,6 +11913,16 @@
         "Finish with garam masala.",
         "Serve with roti.",
         "Winter staple."
+      ],
+      "stepsHi": [
+        "गोभी मटर के लिए गोभी, मटर धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -10966,6 +12024,16 @@
         "Finish with kasuri methi.",
         "Serve with naan or roti.",
         "Can be made gravy-style."
+      ],
+      "stepsHi": [
+        "गोभी मसाला के लिए गोभी धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -11060,6 +12128,16 @@
         "Keep semi-dry.",
         "Finish with amchur.",
         "Serve with roti."
+      ],
+      "stepsHi": [
+        "गोभी दो प्याज़ा के लिए गोभी, onion धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -11072,7 +12150,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -11170,7 +12249,18 @@
         "Add mashed baingan; cook 8–10 minutes on medium.",
         "Finish with coriander and mustard oil optional.",
         "Serve with roti or bajra roti."
-      ]
+      ],
+      "stepsHi": [
+        "बैंगन भर्ता के लिए बैंगन धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Open-flame roasting gives smoky flavour."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -11183,7 +12273,8 @@
         "Lunch",
         "Dinner",
         "Purvanchal Special",
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -11287,7 +12378,18 @@
         "No frying — this is chokha, not bharta.",
         "Serve with litti or dal-chawal.",
         "Purvanchal essential."
-      ]
+      ],
+      "stepsHi": [
+        "बैंगन चोखा की पारंपरिक तैयारी शुरू करें — बैंगन तैयार रखें।",
+        "मसाला/भरवन में सरसों तेल, लहसुन, अदरक और मसाले अच्छी तरह मिलाएं।",
+        "पकाने का तरीका अपनाएं (सेकना/भाप/तड़का) — धीमी आंच पर पूरा पकने दें।",
+        "नमक और तीखापन चखकर ठीक करें।",
+        "घी या चोखा/चावल के साथ गरमागरम परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -11380,6 +12482,16 @@
         "Cook until soft throughout.",
         "Serve with dal and roti.",
         "Use mustard oil for UP taste."
+      ],
+      "stepsHi": [
+        "भरवा बैंगन के लिए बैंगन धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -11481,6 +12593,16 @@
         "Finish with garam masala.",
         "Serve with roti or rice.",
         "Adjust gravy thickness as preferred."
+      ],
+      "stepsHi": [
+        "बैंगन मसाला के लिए बैंगन धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -11491,7 +12613,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "salt",
@@ -11575,7 +12698,18 @@
         "Add dal and water; simmer until lauki is tender and flavours marry.",
         "Finish with ghee tadka of garlic optional.",
         "Serve with roti or rice."
-      ]
+      ],
+      "stepsHi": [
+        "लौकी, चना दाल धोकर हल्दी-नमक के साथ नरम होने तक उबालें/प्रेशर कुक करें। हल्के हाथ से मैश करें।",
+        "घी/तेल में जीरा, हींग, लहसुन-प्याज का तड़का लगाएं।",
+        "टमाटर और मसाले भूनकर दाल में मिलाएं।",
+        "गाढ़ापन देखकर पानी मिलाएं। 5–8 मिनट हल्की आंच पर पकाएं।",
+        "ऊपर से घी और धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -11676,6 +12810,16 @@
         "Simmer gently 3–4 minutes.",
         "Serve with roti or pulao.",
         "Squeeze lauki well or koftas break."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "लौकी, बेसन डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -11686,7 +12830,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "salt",
@@ -11770,7 +12915,18 @@
         "Cook until soft and lightly mashy.",
         "Comfort home sabzi.",
         "Serve with roti."
-      ]
+      ],
+      "stepsHi": [
+        "लौकी टमाटर के लिए लौकी, tomato धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -11780,7 +12936,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "salt",
@@ -11864,7 +13021,18 @@
         "Light everyday sabzi.",
         "Finish with coriander.",
         "Serve with dal-roti."
-      ]
+      ],
+      "stepsHi": [
+        "लौकी आलू के लिए लौकी, आलू धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -11874,7 +13042,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -11965,7 +13134,18 @@
         "Finish with amchur.",
         "Serve with roti.",
         "Summer vegetable."
-      ]
+      ],
+      "stepsHi": [
+        "टिंडा मसाला के लिए tinda धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -12058,6 +13238,16 @@
         "Turn occasionally.",
         "Serve with dal.",
         "Patience on low flame is key."
+      ],
+      "stepsHi": [
+        "भरवा टिंडा के लिए tinda धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -12067,7 +13257,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "salt",
@@ -12151,7 +13342,18 @@
         "Finish with amchur.",
         "UP summer favourite.",
         "Serve with roti."
-      ]
+      ],
+      "stepsHi": [
+        "परवल आलू के लिए parwal, आलू धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -12244,6 +13446,16 @@
         "Serve with dal-chawal.",
         "Fennel in stuffing is traditional.",
         "Do not rush the cooking."
+      ],
+      "stepsHi": [
+        "भरवा परवल के लिए parwal धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -12254,7 +13466,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -12345,7 +13558,18 @@
         "Keep semi-dry.",
         "Serve with roti.",
         "Simple weekday sabzi."
-      ]
+      ],
+      "stepsHi": [
+        "परवल मसाला के लिए parwal धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -12360,7 +13584,8 @@
         "Lunch",
         "Dinner",
         "Breakfast",
-        "Purvanchal Special"
+        "Purvanchal Special",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "methi",
@@ -12451,7 +13676,18 @@
         "Cover-cook; mash lightly for soft texture.",
         "Add amchur or grated raw mango in season.",
         "Classic with puri in Purvanchal."
-      ]
+      ],
+      "stepsHi": [
+        "यूपी स्टाइल कद्दू सब्ज़ी के लिए कद्दू धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -12552,6 +13788,16 @@
         "Balance sweet-sour to taste.",
         "Serve with puri or roti.",
         "Festive and everyday both."
+      ],
+      "stepsHi": [
+        "खट्टी मीठी कद्दू के लिए कद्दू धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -12562,7 +13808,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -12653,7 +13900,18 @@
         "Shallow fry on low until cooked and browned.",
         "Serve with dal-roti.",
         "Salt-rubbing is important."
-      ]
+      ],
+      "stepsHi": [
+        "भरवा करेला के लिए करेला धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -12663,7 +13921,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "salt",
@@ -12747,7 +14006,18 @@
         "Cook until onion softens and bitterness mellows.",
         "Finish with amchur.",
         "Serve with bajra roti or wheat roti."
-      ]
+      ],
+      "stepsHi": [
+        "करेला प्याज के लिए करेला, onion धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -12757,7 +14027,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "salt",
@@ -12841,7 +14112,18 @@
         "Finish with garam masala.",
         "Serve with roti.",
         "Quick sabzi."
-      ]
+      ],
+      "stepsHi": [
+        "पत्ता गोभी मटर के लिए पत्ता गोभी, मटर धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -12935,6 +14217,16 @@
         "Cover until tender.",
         "Serve with roti or as side.",
         "Winter classic."
+      ],
+      "stepsHi": [
+        "गाजर मटर के लिए गाजर, मटर धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -13035,6 +14327,16 @@
         "Finish with amchur.",
         "Serve with dal.",
         "Winter sabzi."
+      ],
+      "stepsHi": [
+        "मूली आलू के लिए radish, आलू धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -13045,7 +14347,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "salt",
@@ -13129,7 +14432,18 @@
         "Optional cream for restaurant style.",
         "Serve with roti or rice.",
         "Mild and kid-friendly."
-      ]
+      ],
+      "stepsHi": [
+        "पालक कॉर्न के लिए पालक, corn धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -13139,7 +14453,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "salt",
@@ -13223,7 +14538,18 @@
         "Garlic tadka optional.",
         "Serve with roti or rice.",
         "Everyday green sabzi."
-      ]
+      ],
+      "stepsHi": [
+        "पालक आलू के लिए पालक, आलू धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -13233,7 +14559,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "salt",
@@ -13317,7 +14644,18 @@
         "Finish with garam masala.",
         "Serve with rice or roti.",
         "Protein-rich."
-      ]
+      ],
+      "stepsHi": [
+        "पालक चना के लिए पालक, चना धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -13329,7 +14667,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "salt",
@@ -13413,7 +14752,18 @@
         "Winter staple.",
         "Serve with dal.",
         "Balance methi bitterness with a pinch of sugar if needed."
-      ]
+      ],
+      "stepsHi": [
+        "मेथी आलू के लिए मेथी, आलू धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -13423,7 +14773,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -13514,7 +14865,18 @@
         "Finish with cream optional.",
         "Serve with roti or rice.",
         "Do not overcrowd pan when sautéing."
-      ]
+      ],
+      "stepsHi": [
+        "मशरूम मसाला के लिए मशरूम धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -13524,7 +14886,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "salt",
@@ -13608,7 +14971,18 @@
         "Simmer until gravy thickens.",
         "Serve with roti or rice.",
         "Budget protein curry."
-      ]
+      ],
+      "stepsHi": [
+        "सोया मटर के लिए soya, मटर धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -13704,6 +15078,16 @@
         "Turn gently.",
         "Serve as main with roti or raita.",
         "Do not overfill."
+      ],
+      "stepsHi": [
+        "भरवा शिमला मिर्च के लिए capsicum, आलू धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -13807,6 +15191,16 @@
         "Keep semi-dry and robustly spiced.",
         "Finish with lemon and coriander.",
         "Serve with roti or pav."
+      ],
+      "stepsHi": [
+        "तवा मिक्स वेज के लिए आलू, गोभी, capsicum धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -13911,6 +15305,16 @@
         "Keep gravy rich but not fiery.",
         "Finish with cream or garam masala.",
         "Serve with pulao or naan."
+      ],
+      "stepsHi": [
+        "वेजिटेबल कोरमा के लिए आलू, गाजर, मटर धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -13925,7 +15329,8 @@
       "categories": [
         "Lunch",
         "Dinner",
-        "Rajasthani Special"
+        "Rajasthani Special",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "curd",
@@ -14023,7 +15428,18 @@
         "Make a spiced curd gravy: whisk curd with spices, cook on low with tadka until it thickens without splitting.",
         "Add gatte; simmer 8–10 minutes.",
         "Serve with bajra roti or rice — Rajasthani classic."
-      ]
+      ],
+      "stepsHi": [
+        "गट्टे की सब्ज़ी के लिए बेसन धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -14035,7 +15451,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -14154,7 +15571,18 @@
         "Add tomato and chilli powder; cook briefly.",
         "Pour tadka over dal. Simmer 5 minutes. Adjust consistency with hot water.",
         "Finish with coriander and a spoon of ghee. Serve with rice or roti."
-      ]
+      ],
+      "stepsHi": [
+        "अरहर दाल धोकर हल्दी-नमक के साथ नरम होने तक उबालें/प्रेशर कुक करें। हल्के हाथ से मैश करें।",
+        "घी/तेल में जीरा, हींग, लहसुन-प्याज का तड़का लगाएं।",
+        "टमाटर और मसाले भूनकर दाल में मिलाएं।",
+        "गाढ़ापन देखकर पानी मिलाएं। 5–8 मिनट हल्की आंच पर पकाएं।",
+        "ऊपर से घी और धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Consistency should be pourable, not too thick."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -14284,6 +15712,16 @@
         "Add dal into the masala (unlike tadka poured on top) and simmer 8–10 minutes.",
         "The dal should be slightly thicker than home tadka dal.",
         "Garnish with coriander and serve with jeera rice."
+      ],
+      "stepsHi": [
+        "अरहर दाल धोकर हल्दी-नमक के साथ नरम होने तक उबालें/प्रेशर कुक करें। हल्के हाथ से मैश करें।",
+        "घी/तेल में जीरा, हींग, लहसुन-प्याज का तड़का लगाएं।",
+        "टमाटर और मसाले भूनकर दाल में मिलाएं।",
+        "गाढ़ापन देखकर पानी मिलाएं। 5–8 मिनट हल्की आंच पर पकाएं।",
+        "ऊपर से घी और धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Dal fry = dal cooked into the fried masala."
       ]
     },
     {
@@ -14436,6 +15874,16 @@
         "Add cooked dal; simmer on low at least 20–30 minutes, stirring often.",
         "Add butter and cream; simmer 5 more minutes.",
         "Serve with naan or rice. Slow cooking is the secret."
+      ],
+      "stepsHi": [
+        "urad-dal, राजमा धोकर हल्दी-नमक के साथ नरम होने तक उबालें/प्रेशर कुक करें। हल्के हाथ से मैश करें।",
+        "घी/तेल में जीरा, हींग, लहसुन-प्याज का तड़का लगाएं।",
+        "टमाटर और मसाले भूनकर दाल में मिलाएं।",
+        "गाढ़ापन देखकर पानी मिलाएं। 5–8 मिनट हल्की आंच पर पकाएं।",
+        "ऊपर से घी और धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Overnight soak and long simmer make restaurant-style creaminess."
       ]
     },
     {
@@ -14447,7 +15895,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -14566,7 +16015,18 @@
         "Add to dal with salt; simmer 5 minutes.",
         "Optional: add chopped spinach for dal palak style later.",
         "Serve with rice — light and easy to digest."
-      ]
+      ],
+      "stepsHi": [
+        "मूंग दाल धोकर हल्दी-नमक के साथ नरम होने तक उबालें/प्रेशर कुक करें। हल्के हाथ से मैश करें।",
+        "घी/तेल में जीरा, हींग, लहसुन-प्याज का तड़का लगाएं।",
+        "टमाटर और मसाले भूनकर दाल में मिलाएं।",
+        "गाढ़ापन देखकर पानी मिलाएं। 5–8 मिनट हल्की आंच पर पकाएं।",
+        "ऊपर से घी और धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Consistency should be pourable, not too thick."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -14576,7 +16036,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -14695,7 +16156,18 @@
         "Add tomato and spices; mix into dal.",
         "Simmer briefly.",
         "Serve with rice or roti."
-      ]
+      ],
+      "stepsHi": [
+        "masoor-dal धोकर हल्दी-नमक के साथ नरम होने तक उबालें/प्रेशर कुक करें। हल्के हाथ से मैश करें।",
+        "घी/तेल में जीरा, हींग, लहसुन-प्याज का तड़का लगाएं।",
+        "टमाटर और मसाले भूनकर दाल में मिलाएं।",
+        "गाढ़ापन देखकर पानी मिलाएं। 5–8 मिनट हल्की आंच पर पकाएं।",
+        "ऊपर से घी और धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Consistency should be pourable, not too thick."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -14706,7 +16178,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -14825,7 +16298,18 @@
         "Add onion, ginger and tomato; cook into masala.",
         "Mix dal; add garam masala. Simmer 8 minutes.",
         "Serve thick with roti — classic North Indian."
-      ]
+      ],
+      "stepsHi": [
+        "चना दाल धोकर हल्दी-नमक के साथ नरम होने तक उबालें/प्रेशर कुक करें। हल्के हाथ से मैश करें।",
+        "घी/तेल में जीरा, हींग, लहसुन-प्याज का तड़का लगाएं।",
+        "टमाटर और मसाले भूनकर दाल में मिलाएं।",
+        "गाढ़ापन देखकर पानी मिलाएं। 5–8 मिनट हल्की आंच पर पकाएं।",
+        "ऊपर से घी और धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Consistency should be pourable, not too thick."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -14836,7 +16320,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -14955,7 +16440,18 @@
         "Add to dal with salt and chilli.",
         "Simmer; consistency should be creamy.",
         "Serve with rice or bajra roti."
-      ]
+      ],
+      "stepsHi": [
+        "urad-dal धोकर हल्दी-नमक के साथ नरम होने तक उबालें/प्रेशर कुक करें। हल्के हाथ से मैश करें।",
+        "घी/तेल में जीरा, हींग, लहसुन-प्याज का तड़का लगाएं।",
+        "टमाटर और मसाले भूनकर दाल में मिलाएं।",
+        "गाढ़ापन देखकर पानी मिलाएं। 5–8 मिनट हल्की आंच पर पकाएं।",
+        "ऊपर से घी और धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Watch the cooker — urad froths and can block the vent."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -14964,7 +16460,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -15104,7 +16601,18 @@
         "Combine and simmer 10 minutes for flavours to blend.",
         "Adjust thickness.",
         "Serve with jeera rice or roti."
-      ]
+      ],
+      "stepsHi": [
+        "अरहर दाल, मूंग दाल, masoor-dal धोकर हल्दी-नमक के साथ नरम होने तक उबालें/प्रेशर कुक करें। हल्के हाथ से मैश करें।",
+        "घी/तेल में जीरा, हींग, लहसुन-प्याज का तड़का लगाएं।",
+        "टमाटर और मसाले भूनकर दाल में मिलाएं।",
+        "गाढ़ापन देखकर पानी मिलाएं। 5–8 मिनट हल्की आंच पर पकाएं।",
+        "ऊपर से घी और धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Consistency should be pourable, not too thick."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -15265,6 +16773,16 @@
         "Add to dal with coriander powder and garam masala; simmer.",
         "Should be thick enough to eat with baati.",
         "Serve with dal baati churma or plain rice."
+      ],
+      "stepsHi": [
+        "अरहर दाल, मूंग दाल, चना दाल धोकर हल्दी-नमक के साथ नरम होने तक उबालें/प्रेशर कुक करें। हल्के हाथ से मैश करें।",
+        "घी/तेल में जीरा, हींग, लहसुन-प्याज का तड़का लगाएं।",
+        "टमाटर और मसाले भूनकर दाल में मिलाएं।",
+        "गाढ़ापन देखकर पानी मिलाएं। 5–8 मिनट हल्की आंच पर पकाएं।",
+        "ऊपर से घी और धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Consistency should be pourable, not too thick."
       ]
     },
     {
@@ -15274,7 +16792,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -15400,7 +16919,18 @@
         "Temper garlic and cumin in ghee; pour over.",
         "Adjust salt and chilli.",
         "Nutritious everyday dal."
-      ]
+      ],
+      "stepsHi": [
+        "अरहर दाल, पालक धोकर हल्दी-नमक के साथ नरम होने तक उबालें/प्रेशर कुक करें। हल्के हाथ से मैश करें।",
+        "घी/तेल में जीरा, हींग, लहसुन-प्याज का तड़का लगाएं।",
+        "टमाटर और मसाले भूनकर दाल में मिलाएं।",
+        "गाढ़ापन देखकर पानी मिलाएं। 5–8 मिनट हल्की आंच पर पकाएं।",
+        "ऊपर से घी और धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Consistency should be pourable, not too thick."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -15411,7 +16941,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -15536,7 +17067,18 @@
         "Add dried red chilli and cumin; pour over dal.",
         "Simmer 3 minutes so garlic flavour infuses.",
         "Serve hot with steamed rice — monsoon comfort food."
-      ]
+      ],
+      "stepsHi": [
+        "अरहर दाल धोकर हल्दी-नमक के साथ नरम होने तक उबालें/प्रेशर कुक करें। हल्के हाथ से मैश करें।",
+        "घी/तेल में जीरा, हींग, लहसुन-प्याज का तड़का लगाएं।",
+        "टमाटर और मसाले भूनकर दाल में मिलाएं।",
+        "गाढ़ापन देखकर पानी मिलाएं। 5–8 मिनट हल्की आंच पर पकाएं।",
+        "ऊपर से घी और धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Golden garlic, not bitter black garlic."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -15667,6 +17209,16 @@
         "Add chole with stock; mash a few for thickness. Simmer 15 minutes.",
         "Finish with ginger juliennes and coriander.",
         "Serve with bhature, puri or rice."
+      ],
+      "stepsHi": [
+        "चना रात भर भिगोकर नरम होने तक प्रेशर कुक करें।",
+        "प्याज-टमाटर का मसाला अच्छे से भूनें। मसाले डालें।",
+        "उबली हुई दाल/चना डालकर 10–15 मिनट धीमी आंच पर पकाएं। कुछ दाने मैश कर लें — ग्रेवी अच्छी बनेगी।",
+        "गरम मसाला और धनिया डालें।",
+        "रोटी, चावल या कुलचा/पुरी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -15774,6 +17326,16 @@
         "No heavy onion-tomato gravy — spice-forward dry style.",
         "Rest 10 minutes before serving.",
         "Classic with kulcha."
+      ],
+      "stepsHi": [
+        "चना रात भर भिगोकर नरम होने तक प्रेशर कुक करें।",
+        "प्याज-टमाटर का मसाला अच्छे से भूनें। मसाले डालें।",
+        "उबली हुई दाल/चना डालकर 10–15 मिनट धीमी आंच पर पकाएं। कुछ दाने मैश कर लें — ग्रेवी अच्छी बनेगी।",
+        "गरम मसाला और धनिया डालें।",
+        "रोटी, चावल या कुलचा/पुरी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -15834,6 +17396,16 @@
         "Serve chole over or beside rice with onion and lemon.",
         "Optional: add a spoon of ghee on rice.",
         "Complete comforting meal plate."
+      ],
+      "stepsHi": [
+        "चना, चावल रात भर भिगोकर नरम होने तक प्रेशर कुक करें।",
+        "प्याज-टमाटर का मसाला अच्छे से भूनें। मसाले डालें।",
+        "उबली हुई दाल/चना डालकर 10–15 मिनट धीमी आंच पर पकाएं। कुछ दाने मैश कर लें — ग्रेवी अच्छी बनेगी।",
+        "गरम मसाला और धनिया डालें।",
+        "रोटी, चावल या कुलचा/पुरी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Make chole slightly thinner for rice."
       ]
     },
     {
@@ -15844,7 +17416,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -15935,7 +17508,18 @@
         "Mash a few for body.",
         "Finish with garam masala.",
         "Serve with rice or roti — also used as navratri/prasad style dry sometimes."
-      ]
+      ],
+      "stepsHi": [
+        "kala-chana रात भर भिगोकर नरम होने तक प्रेशर कुक करें।",
+        "प्याज-टमाटर का मसाला अच्छे से भूनें। मसाले डालें।",
+        "उबली हुई दाल/चना डालकर 10–15 मिनट धीमी आंच पर पकाएं। कुछ दाने मैश कर लें — ग्रेवी अच्छी बनेगी।",
+        "गरम मसाला और धनिया डालें।",
+        "रोटी, चावल या कुलचा/पुरी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -16036,6 +17620,16 @@
         "Simmer together; keep slightly thick.",
         "Top with chopped onion and lemon.",
         "Serve in bowls with puffed rice optional."
+      ],
+      "stepsHi": [
+        "kala-chana रात भर भिगोकर नरम होने तक प्रेशर कुक करें।",
+        "प्याज-टमाटर का मसाला अच्छे से भूनें। मसाले डालें।",
+        "उबली हुई दाल/चना डालकर 10–15 मिनट धीमी आंच पर पकाएं। कुछ दाने मैश कर लें — ग्रेवी अच्छी बनेगी।",
+        "गरम मसाला और धनिया डालें।",
+        "रोटी, चावल या कुलचा/पुरी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Closely related to chana-ghugni; slightly masala-heavier snack version."
       ]
     },
     {
@@ -16047,7 +17641,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -16145,7 +17740,18 @@
         "Add rajma with cooking water; simmer 15–20 minutes; mash a few beans.",
         "Finish with garam masala and coriander.",
         "Serve with hot rice."
-      ]
+      ],
+      "stepsHi": [
+        "राजमा रात भर भिगोकर नरम होने तक प्रेशर कुक करें।",
+        "प्याज-टमाटर का मसाला अच्छे से भूनें। मसाले डालें।",
+        "उबली हुई दाल/चना डालकर 10–15 मिनट धीमी आंच पर पकाएं। कुछ दाने मैश कर लें — ग्रेवी अच्छी बनेगी।",
+        "गरम मसाला और धनिया डालें।",
+        "रोटी, चावल या कुलचा/पुरी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -16207,6 +17813,16 @@
         "Add a touch of ghee on rice.",
         "Serve with onion salad.",
         "Sunday favourite across North India."
+      ],
+      "stepsHi": [
+        "राजमा, चावल रात भर भिगोकर नरम होने तक प्रेशर कुक करें।",
+        "प्याज-टमाटर का मसाला अच्छे से भूनें। मसाले डालें।",
+        "उबली हुई दाल/चना डालकर 10–15 मिनट धीमी आंच पर पकाएं। कुछ दाने मैश कर लें — ग्रेवी अच्छी बनेगी।",
+        "गरम मसाला और धनिया डालें।",
+        "रोटी, चावल या कुलचा/पुरी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Rajma must be melt-soft."
       ]
     },
     {
@@ -16315,6 +17931,16 @@
         "Simmer long for a silky broth.",
         "Serve with rice.",
         "Distinct from Punjabi restaurant rajma."
+      ],
+      "stepsHi": [
+        "राजमा रात भर भिगोकर नरम होने तक प्रेशर कुक करें।",
+        "प्याज-टमाटर का मसाला अच्छे से भूनें। मसाले डालें।",
+        "उबली हुई दाल/चना डालकर 10–15 मिनट धीमी आंच पर पकाएं। कुछ दाने मैश कर लें — ग्रेवी अच्छी बनेगी।",
+        "गरम मसाला और धनिया डालें।",
+        "रोटी, चावल या कुलचा/पुरी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -16327,7 +17953,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -16418,7 +18045,18 @@
         "Adjust to medium gravy.",
         "Finish with garam masala.",
         "Serve with roti or rice."
-      ]
+      ],
+      "stepsHi": [
+        "lobia रात भर भिगोकर नरम होने तक प्रेशर कुक करें।",
+        "प्याज-टमाटर का मसाला अच्छे से भूनें। मसाले डालें।",
+        "उबली हुई दाल/चना डालकर 10–15 मिनट धीमी आंच पर पकाएं। कुछ दाने मैश कर लें — ग्रेवी अच्छी बनेगी।",
+        "गरम मसाला और धनिया डालें।",
+        "रोटी, चावल या कुलचा/पुरी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -16428,7 +18066,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -16519,7 +18158,18 @@
         "Optional capsicum for crunch.",
         "Serve with roti.",
         "Semi-dry finish."
-      ]
+      ],
+      "stepsHi": [
+        "lobia रात भर भिगोकर नरम होने तक प्रेशर कुक करें।",
+        "प्याज-टमाटर का मसाला अच्छे से भूनें। मसाले डालें।",
+        "उबली हुई दाल/चना डालकर 10–15 मिनट धीमी आंच पर पकाएं। कुछ दाने मैश कर लें — ग्रेवी अच्छी बनेगी।",
+        "गरम मसाला और धनिया डालें।",
+        "रोटी, चावल या कुलचा/पुरी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -16627,6 +18277,16 @@
         "Prepare tadka with ghee, cumin, hing, chilli; pour into kadhi.",
         "Add pakoras; simmer 5 minutes so they soak slightly.",
         "Serve with steamed rice."
+      ],
+      "stepsHi": [
+        "दही और बेसन को पानी में फेंटकर लम्प्स-फ्री बनाएं।",
+        "हल्की आंच पर लगातार हिलाते हुए उबालें — कच्चा स्वाद न रहे।",
+        "तड़का लगाएं (जीरा/राई/हींग/मिर्च)। पकोड़ा/बूंदी हो तो अंत में डालें।",
+        "नमक और खट्टापन चखकर ठीक करें।",
+        "गरम चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Whisk besan into curd smoothly before heating to avoid lumps."
       ]
     },
     {
@@ -16640,7 +18300,8 @@
       "categories": [
         "Lunch",
         "Dinner",
-        "Rajasthani Special"
+        "Rajasthani Special",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ghee",
@@ -16723,7 +18384,18 @@
         "Usually without large pakoras, or with small gatte/boondi.",
         "Should taste distinctly sour and spicy.",
         "Serve with bajra roti or rice."
-      ]
+      ],
+      "stepsHi": [
+        "दही और बेसन को पानी में फेंटकर लम्प्स-फ्री बनाएं।",
+        "हल्की आंच पर लगातार हिलाते हुए उबालें — कच्चा स्वाद न रहे।",
+        "तड़का लगाएं (जीरा/राई/हींग/मिर्च)। पकोड़ा/बूंदी हो तो अंत में डालें।",
+        "नमक और खट्टापन चखकर ठीक करें।",
+        "गरम चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Sour curd is important for Rajasthani kadhi."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -16736,7 +18408,8 @@
       "categories": [
         "Lunch",
         "Dinner",
-        "Purvanchal Special"
+        "Purvanchal Special",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ghee",
@@ -16819,7 +18492,18 @@
         "Tadka with mustard oil or ghee, cumin, hing and dried red chilli.",
         "Slightly lighter body than Punjabi version.",
         "Serve with rice and aloo chokha optional."
-      ]
+      ],
+      "stepsHi": [
+        "दही और बेसन को पानी में फेंटकर लम्प्स-फ्री बनाएं।",
+        "हल्की आंच पर लगातार हिलाते हुए उबालें — कच्चा स्वाद न रहे।",
+        "तड़का लगाएं (जीरा/राई/हींग/मिर्च)। पकोड़ा/बूंदी हो तो अंत में डालें।",
+        "नमक और खट्टापन चखकर ठीक करें।",
+        "गरम चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Whisk besan into curd smoothly before heating to avoid lumps."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -16872,6 +18556,16 @@
         "Serve kadhi generously over rice.",
         "Add ghee on top if desired.",
         "Comfort meal for rainy days."
+      ],
+      "stepsHi": [
+        "दही और बेसन को पानी में फेंटकर लम्प्स-फ्री बनाएं।",
+        "हल्की आंच पर लगातार हिलाते हुए उबालें — कच्चा स्वाद न रहे।",
+        "तड़का लगाएं (जीरा/राई/हींग/मिर्च)। पकोड़ा/बूंदी हो तो अंत में डालें।",
+        "नमक और खट्टापन चखकर ठीक करें।",
+        "गरम चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Slightly thinner kadhi pours better over rice."
       ]
     },
     {
@@ -16883,7 +18577,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ghee",
@@ -16973,7 +18668,18 @@
         "Soak boondi briefly in warm water, squeeze, and add to kadhi 5 minutes before serving.",
         "Do not over-soak or boondi turns mushy.",
         "Serve with rice."
-      ]
+      ],
+      "stepsHi": [
+        "दही और बेसन को पानी में फेंटकर लम्प्स-फ्री बनाएं।",
+        "हल्की आंच पर लगातार हिलाते हुए उबालें — कच्चा स्वाद न रहे।",
+        "तड़का लगाएं (जीरा/राई/हींग/मिर्च)। पकोड़ा/बूंदी हो तो अंत में डालें।",
+        "नमक और खट्टापन चखकर ठीक करें।",
+        "गरम चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Whisk besan into curd smoothly before heating to avoid lumps."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -17056,6 +18762,16 @@
         "Add 2.75 cups water and salt. Cook covered on low until done.",
         "Rest 5 minutes; fluff with fork.",
         "Serve with raita or curry."
+      ],
+      "stepsHi": [
+        "चावल धोकर 15–20 मिनट भिगो दें (खिचड़ी में दाल भी साथ धोएं)।",
+        "घी/तेल में खड़े मसाले और प्याज भूनें। चावल, गाजर, मटर डालकर हल्के से भूनें।",
+        "चावल डालें, पानी और नमक मिलाएं। ढककर धीमी आंच पर पकाएं।",
+        "पकने के बाद 5 मिनट ढककर रखें, फिर हल्के हाथ से फुलफुलाएं।",
+        "रायता, अचार या सब्ज़ी/दाल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "मत stir vigorously after adding water."
       ]
     },
     {
@@ -17067,7 +18783,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ghee",
@@ -17123,7 +18840,18 @@
         "Add water and salt; cook until fluffy.",
         "Rest and fluff.",
         "Perfect with dal makhani or shahi paneer."
-      ]
+      ],
+      "stepsHi": [
+        "चावल धोकर 15–20 मिनट भिगो दें (खिचड़ी में दाल भी साथ धोएं)।",
+        "घी/तेल में खड़े मसाले और प्याज भूनें। चावल, cumin डालकर हल्के से भूनें।",
+        "चावल डालें, पानी और नमक मिलाएं। ढककर धीमी आंच पर पकाएं।",
+        "पकने के बाद 5 मिनट ढककर रखें, फिर हल्के हाथ से फुलफुलाएं।",
+        "रायता, अचार या सब्ज़ी/दाल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Brown cumin lightly without burning."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -17204,6 +18932,16 @@
         "Cook rice; gently fold in paneer at the end.",
         "Rest 5 minutes.",
         "Serve with raita."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "चावल, पनीर डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Add paneer late so it stays soft."
       ]
     },
     {
@@ -17293,6 +19031,16 @@
         "When almost done, add saffron milk and fried dry fruits.",
         "Dum for 5 minutes.",
         "Serve mildly sweet aromatic pulao with spicy curry."
+      ],
+      "stepsHi": [
+        "चावल धोकर 15–20 मिनट भिगो दें (खिचड़ी में दाल भी साथ धोएं)।",
+        "घी/तेल में खड़े मसाले और प्याज भूनें। चावल डालकर हल्के से भूनें।",
+        "चावल डालें, पानी और नमक मिलाएं। ढककर धीमी आंच पर पकाएं।",
+        "पकने के बाद 5 मिनट ढककर रखें, फिर हल्के हाथ से फुलफुलाएं।",
+        "रायता, अचार या सब्ज़ी/दाल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Balance salt and slight sweetness carefully."
       ]
     },
     {
@@ -17398,6 +19146,16 @@
         "Layer vegetable masala and rice in a heavy pot; sprinkle fried onion, mint, saffron milk and ghee.",
         "Seal and dum-cook on low 20 minutes.",
         "Rest 10 minutes; gently mix and serve with raita."
+      ],
+      "stepsHi": [
+        "चावल धोकर 15–20 मिनट भिगो दें (खिचड़ी में दाल भी साथ धोएं)।",
+        "घी/तेल में खड़े मसाले और प्याज भूनें। चावल, आलू, गाजर डालकर हल्के से भूनें।",
+        "चावल डालें, पानी और नमक मिलाएं। ढककर धीमी आंच पर पकाएं।",
+        "पकने के बाद 5 मिनट ढककर रखें, फिर हल्के हाथ से फुलफुलाएं।",
+        "रायता, अचार या सब्ज़ी/दाल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Rice must be only 70% cooked before dum."
       ]
     },
     {
@@ -17493,6 +19251,16 @@
         "Dum-cook 20 minutes on low.",
         "Rest and serve with salan or raita.",
         "Handle layers gently when serving."
+      ],
+      "stepsHi": [
+        "प्याज-टमाटर का मसाला भून लें। कश्मीरी मिर्च/मसाले डालकर तेल छूटने तक पकाएं।",
+        "ग्रेवी को जरूरत हो तो महीन पीस लें। नमक और गरम मसाला मिलाएं।",
+        "चावल, पनीर डालें। पनीर को ज्यादा देर न उबालें — नरम रहेगा।",
+        "हल्की आंच पर 5–7 मिनट पकाएं। मलाई/कसूरी मेथी से फिनिश करें।",
+        "रोटी, नान या जीरा राइस के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "मत overcook paneer in marinade pan."
       ]
     },
     {
@@ -17583,6 +19351,16 @@
         "Add rice, soy sauce, vinegar, salt and pepper; toss on high flame.",
         "Do not mash rice.",
         "Serve with chilli paneer or manchurian."
+      ],
+      "stepsHi": [
+        "चावल धोकर 15–20 मिनट भिगो दें (खिचड़ी में दाल भी साथ धोएं)।",
+        "घी/तेल में खड़े मसाले और प्याज भूनें। चावल, पत्ता गोभी, गाजर डालकर हल्के से भूनें।",
+        "चावल डालें, पानी और नमक मिलाएं। ढककर धीमी आंच पर पकाएं।",
+        "पकने के बाद 5 मिनट ढककर रखें, फिर हल्के हाथ से फुलफुलाएं।",
+        "रायता, अचार या सब्ज़ी/दाल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "High flame and cold rice prevent sogginess."
       ]
     },
     {
@@ -17595,7 +19373,8 @@
       ],
       "categories": [
         "Lunch",
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "mustard-seeds",
@@ -17686,7 +19465,18 @@
         "Mix into cooled cooked rice gently.",
         "Adjust lemon to taste.",
         "Serve with curd or papad."
-      ]
+      ],
+      "stepsHi": [
+        "चावल धोकर 15–20 मिनट भिगो दें (खिचड़ी में दाल भी साथ धोएं)।",
+        "घी/तेल में खड़े मसाले और प्याज भूनें। चावल, lemon डालकर हल्के से भूनें।",
+        "चावल डालें, पानी और नमक मिलाएं। ढककर धीमी आंच पर पकाएं।",
+        "पकने के बाद 5 मिनट ढककर रखें, फिर हल्के हाथ से फुलफुलाएं।",
+        "रायता, अचार या सब्ज़ी/दाल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Add lemon off the flame to keep brightness."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -17767,6 +19557,16 @@
         "Or mix tomato masala into leftover rice.",
         "Rest and fluff.",
         "Serve with curd."
+      ],
+      "stepsHi": [
+        "चावल धोकर 15–20 मिनट भिगो दें (खिचड़ी में दाल भी साथ धोएं)।",
+        "घी/तेल में खड़े मसाले और प्याज भूनें। चावल, tomato डालकर हल्के से भूनें।",
+        "चावल डालें, पानी और नमक मिलाएं। ढककर धीमी आंच पर पकाएं।",
+        "पकने के बाद 5 मिनट ढककर रखें, फिर हल्के हाथ से फुलफुलाएं।",
+        "रायता, अचार या सब्ज़ी/दाल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Ripe tomatoes give better colour and tang."
       ]
     },
     {
@@ -17879,6 +19679,16 @@
         "Add water; cook like tahri until everything is done.",
         "Rest and serve with pickle and papad.",
         "One-pot Awadhi/Purvanchal meal."
+      ],
+      "stepsHi": [
+        "चावल धोकर 15–20 मिनट भिगो दें (खिचड़ी में दाल भी साथ धोएं)।",
+        "घी/तेल में खड़े मसाले और प्याज भूनें। चावल, आलू, गोभी डालकर हल्के से भूनें।",
+        "चावल डालें, पानी और नमक मिलाएं। ढककर धीमी आंच पर पकाएं।",
+        "पकने के बाद 5 मिनट ढककर रखें, फिर हल्के हाथ से फुलफुलाएं।",
+        "रायता, अचार या सब्ज़ी/दाल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -17889,7 +19699,8 @@
       "categories": [
         "Lunch",
         "Dinner",
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ghee",
@@ -17959,7 +19770,18 @@
         "Pressure cook 3–4 whistles until soft and porridge-like.",
         "Add more ghee on top.",
         "Serve with kaddu sabzi, papad and pickle."
-      ]
+      ],
+      "stepsHi": [
+        "मूंग दाल, चावल धोकर हल्दी-नमक के साथ नरम होने तक उबालें/प्रेशर कुक करें। हल्के हाथ से मैश करें।",
+        "घी/तेल में जीरा, हींग, लहसुन-प्याज का तड़का लगाएं।",
+        "टमाटर और मसाले भूनकर दाल में मिलाएं।",
+        "गाढ़ापन देखकर पानी मिलाएं। 5–8 मिनट हल्की आंच पर पकाएं।",
+        "ऊपर से घी और धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "More water = softer hospital-style khichdi."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -17969,7 +19791,8 @@
       "categories": [
         "Lunch",
         "Dinner",
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "moong-dal",
@@ -18046,7 +19869,18 @@
         "Temper with ghee and cumin.",
         "Comforting one-pot meal.",
         "Adjust water for softer or grainier texture."
-      ]
+      ],
+      "stepsHi": [
+        "चावल धोकर 15–20 मिनट भिगो दें (खिचड़ी में दाल भी साथ धोएं)।",
+        "घी/तेल में खड़े मसाले और प्याज भूनें। गाजर, चावल डालकर हल्के से भूनें।",
+        "चावल डालें, पानी और नमक मिलाएं। ढककर धीमी आंच पर पकाएं।",
+        "पकने के बाद 5 मिनट ढककर रखें, फिर हल्के हाथ से फुलफुलाएं।",
+        "रायता, अचार या सब्ज़ी/दाल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "More water = softer hospital-style khichdi."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -18056,7 +19890,8 @@
       "categories": [
         "Lunch",
         "Dinner",
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "moong-dal",
@@ -18127,7 +19962,18 @@
         "Pressure cook until soft.",
         "More robustly spiced than plain khichdi.",
         "Serve with curd."
-      ]
+      ],
+      "stepsHi": [
+        "चावल धोकर 15–20 मिनट भिगो दें (खिचड़ी में दाल भी साथ धोएं)।",
+        "घी/तेल में खड़े मसाले और प्याज भूनें। अरहर दाल, चावल डालकर हल्के से भूनें।",
+        "चावल डालें, पानी और नमक मिलाएं। ढककर धीमी आंच पर पकाएं।",
+        "पकने के बाद 5 मिनट ढककर रखें, फिर हल्के हाथ से फुलफुलाएं।",
+        "रायता, अचार या सब्ज़ी/दाल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "More water = softer hospital-style khichdi."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -18138,7 +19984,8 @@
       "categories": [
         "Lunch",
         "Dinner",
-        "Rajasthani Special"
+        "Rajasthani Special",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "moong-dal",
@@ -18215,7 +20062,18 @@
         "Ghee-cumin tadka.",
         "Winter Rajasthani/North Indian special.",
         "Serve with kadhi or ghee."
-      ]
+      ],
+      "stepsHi": [
+        "चावल धोकर 15–20 मिनट भिगो दें (खिचड़ी में दाल भी साथ धोएं)।",
+        "घी/तेल में खड़े मसाले और प्याज भूनें। बाजरा, चावल डालकर हल्के से भूनें।",
+        "चावल डालें, पानी और नमक मिलाएं। ढककर धीमी आंच पर पकाएं।",
+        "पकने के बाद 5 मिनट ढककर रखें, फिर हल्के हाथ से फुलफुलाएं।",
+        "रायता, अचार या सब्ज़ी/दाल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "More water = softer hospital-style khichdi."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -18225,7 +20083,8 @@
       "categories": [
         "Lunch",
         "Dinner",
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "moong-dal",
@@ -18302,7 +20161,18 @@
         "Garlic-ghee tadka.",
         "Nutritious and mild.",
         "Serve with curd or papad."
-      ]
+      ],
+      "stepsHi": [
+        "चावल धोकर 15–20 मिनट भिगो दें (खिचड़ी में दाल भी साथ धोएं)।",
+        "घी/तेल में खड़े मसाले और प्याज भूनें। पालक, चावल डालकर हल्के से भूनें।",
+        "चावल डालें, पानी और नमक मिलाएं। ढककर धीमी आंच पर पकाएं।",
+        "पकने के बाद 5 मिनट ढककर रखें, फिर हल्के हाथ से फुलफुलाएं।",
+        "रायता, अचार या सब्ज़ी/दाल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "More water = softer hospital-style khichdi."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -18404,6 +20274,16 @@
         "Simmer until potato is soft.",
         "Slightly tangy — Banaras home style.",
         "Serve with plain rice or roti."
+      ],
+      "stepsHi": [
+        "बनारसी आलू टमाटर के लिए आलू, tomato धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -18493,6 +20373,16 @@
         "The mixture should be tangy, spicy and slightly mushy.",
         "Top with sev and coriander.",
         "Serve hot as Banarasi street-style chaat."
+      ],
+      "stepsHi": [
+        "सब्ज़ियाँ धोकर काट लें — tomato।",
+        "हल्के मसाले, नींबू और नमक मिलाएं। तलना कम/नहीं।",
+        "जल्दी मिलाकर तुरंत परोसें ताकि कुरकुरा/ताज़गी बनी रहे।",
+        "मीठी चटनी या चीनी न डालें (खासकर डायबिटीज प्लेट में)।",
+        "दाल-रोटी या अलग स्नैक की तरह खाएं।"
+      ],
+      "tipsHi": [
+        "Use ripe red tomatoes for authentic tang."
       ]
     },
     {
@@ -18508,7 +20398,8 @@
         "Lunch",
         "Dinner",
         "Purvanchal Special",
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "onion",
@@ -18578,7 +20469,18 @@
         "Serve with litti or rice.",
         "No cooking in pan needed after roasting.",
         "Smoky flavour is key."
-      ]
+      ],
+      "stepsHi": [
+        "टमाटर चोखा की पारंपरिक तैयारी शुरू करें — tomato तैयार रखें।",
+        "मसाला/भरवन में सरसों तेल, लहसुन, अदरक और मसाले अच्छी तरह मिलाएं।",
+        "पकाने का तरीका अपनाएं (सेकना/भाप/तड़का) — धीमी आंच पर पूरा पकने दें।",
+        "नमक और तीखापन चखकर ठीक करें।",
+        "घी या चोखा/चावल के साथ गरमागरम परोसें।"
+      ],
+      "tipsHi": [
+        "Flame roast for authentic taste."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -18669,6 +20571,16 @@
         "Mix vigorously.",
         "Serve as a trio chokha plate with litti or sattu paratha.",
         "Adjust mustard oil to taste."
+      ],
+      "stepsHi": [
+        "मिक्स चोखा की पारंपरिक तैयारी शुरू करें — आलू, बैंगन, tomato तैयार रखें।",
+        "मसाला/भरवन में सरसों तेल, लहसुन, अदरक और मसाले अच्छी तरह मिलाएं।",
+        "पकाने का तरीका अपनाएं (सेकना/भाप/तड़का) — धीमी आंच पर पूरा पकने दें।",
+        "नमक और तीखापन चखकर ठीक करें।",
+        "घी या चोखा/चावल के साथ गरमागरम परोसें।"
+      ],
+      "tipsHi": [
+        "Each vegetable can also be परोसेंd separately."
       ]
     },
     {
@@ -18683,7 +20595,8 @@
       ],
       "categories": [
         "Breakfast",
-        "Purvanchal Special"
+        "Purvanchal Special",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "mustard-oil",
@@ -18759,7 +20672,18 @@
         "Optional: onion and green chilli for Jaunpur-style punch.",
         "Stir well and drink immediately.",
         "Cooling summer staple across Purvanchal."
-      ]
+      ],
+      "stepsHi": [
+        "नमकीन सत्तू शरबत की पारंपरिक तैयारी शुरू करें — सत्तू तैयार रखें।",
+        "मसाला/भरवन में सरसों तेल, लहसुन, अदरक और मसाले अच्छी तरह मिलाएं।",
+        "पकाने का तरीका अपनाएं (सेकना/भाप/तड़का) — धीमी आंच पर पूरा पकने दें।",
+        "नमक और तीखापन चखकर ठीक करें।",
+        "घी या चोखा/चावल के साथ गरमागरम परोसें।"
+      ],
+      "tipsHi": [
+        "Mix paste first to avoid lumps."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -18828,6 +20752,16 @@
         "Add cardamom if using.",
         "Serve chilled.",
         "Energy drink for hot afternoons."
+      ],
+      "stepsHi": [
+        "मीठा सत्तू शरबत की मुख्य सामग्री (सत्तू) धीमी आंच पर घी में भूनें — कच्चा स्वाद न रहे।",
+        "चीनी/गुड़ और दूध/पानी सावधानी से मिलाएं। लगातार हिलाएं।",
+        "गाढ़ा और चमकदार होने तक पकाएं। इलायची डालें।",
+        "मेवे से सजाएं।",
+        "गर्म या ठंडा, परिवार के हिसाब से परोसें। (डायबिटीज में मात्रा कम रखें)"
+      ],
+      "tipsHi": [
+        "Milk version is richer; water is lighter."
       ]
     },
     {
@@ -18883,6 +20817,16 @@
         "Serve hot puris with a bowl of spicy aloo.",
         "Add pickle and fried green chilli on the side.",
         "Iconic Purvanchal breakfast plate."
+      ],
+      "stepsHi": [
+        "बेडमी पूरी आलू सब्ज़ी की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "Fry puris fresh and परोसें immediately."
       ]
     },
     {
@@ -18952,6 +20896,16 @@
         "Serve puris with kaddu.",
         "Common festive and Sunday breakfast in Jaunpur homes.",
         "Eat hot."
+      ],
+      "stepsHi": [
+        "पूरी कद्दू सब्ज़ी की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "Kaddu should be soft and lightly mashed."
       ]
     },
     {
@@ -19036,6 +20990,16 @@
         "Cook panchmel dal with tadka until thick.",
         "For churma: crush 2–3 baatis, mix with ghee and powdered sugar/jaggery.",
         "Serve baati broken into dal, with churma on the side."
+      ],
+      "stepsHi": [
+        "आटा, अरहर दाल, ghee धोकर हल्दी-नमक के साथ नरम होने तक उबालें/प्रेशर कुक करें। हल्के हाथ से मैश करें।",
+        "घी/तेल में जीरा, हींग, लहसुन-प्याज का तड़का लगाएं।",
+        "टमाटर और मसाले भूनकर दाल में मिलाएं।",
+        "गाढ़ापन देखकर पानी मिलाएं। 5–8 मिनट हल्की आंच पर पकाएं।",
+        "ऊपर से घी और धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Baati dough must be stiff; soft dough will not bake right."
       ]
     },
     {
@@ -19138,6 +21102,16 @@
         "Add papad pieces; simmer 3–4 minutes only.",
         "Do not overcook or papad dissolves completely.",
         "Rajasthani quick sabzi when fresh vegetables are scarce."
+      ],
+      "stepsHi": [
+        "पापड़ की सब्ज़ी के लिए papad, दही धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -19257,6 +21231,16 @@
         "Cook until oil separates and flavours intensify.",
         "Should taste tangy, spicy and desert-aromatic.",
         "Serve with bajra roti and ghee."
+      ],
+      "stepsHi": [
+        "केर सांगरी के लिए ker, sangri धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -19273,7 +21257,8 @@
         "Lunch",
         "Dinner",
         "Rajasthani Special",
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "salt",
@@ -19328,7 +21313,18 @@
         "Cook on hot tawa; finish directly on flame for char if comfortable doing so.",
         "Smear with ghee.",
         "Serve with ker sangri, gatte, lasun chutney or jaggery."
-      ]
+      ],
+      "stepsHi": [
+        "बाजरा रोटी के लिए आटा नरम गूंद लें। 10–15 मिनट ढककर रख दें।",
+        "भरवन/मसाला तैयार करें — बाजरा को मसाले और नमक के साथ मिलाएं (जहाँ भरवन हो)।",
+        "लोई बनाकर भरवन रखें, बंद करें और हल्के हाथ से बेलें। फटे नहीं, ध्यान रखें।",
+        "तवा गर्म करें। दोनों तरफ घी/तेल लगाकर सुनहरा होने तक पकाएं।",
+        "गर्म-गर्म दही, अचार या सब्ज़ी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Make one roti at a time; dough stiffens quickly."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [
@@ -19343,7 +21339,8 @@
         "Lunch",
         "Dinner",
         "Rajasthani Special",
-        "Breakfast"
+        "Breakfast",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ajwain",
@@ -19420,7 +21417,18 @@
         "Cook on tawa with ghee until spotted brown.",
         "Serve with white butter, pickle or dal.",
         "Hearty Rajasthani/Punjabi flatbread."
-      ]
+      ],
+      "stepsHi": [
+        "मिस्सी रोटी के लिए आटा नरम गूंद लें। 10–15 मिनट ढककर रख दें।",
+        "भरवन/मसाला तैयार करें — बेसन, आटा को मसाले और नमक के साथ मिलाएं (जहाँ भरवन हो)।",
+        "लोई बनाकर भरवन रखें, बंद करें और हल्के हाथ से बेलें। फटे नहीं, ध्यान रखें।",
+        "तवा गर्म करें। दोनों तरफ घी/तेल लगाकर सुनहरा होने तक पकाएं।",
+        "गर्म-गर्म दही, अचार या सब्ज़ी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Besan makes roti protein-rich and flavourful."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -19522,6 +21530,16 @@
         "Add potatoes; simmer until coated and flavourful.",
         "Fairly dry to semi-gravy.",
         "Serve with missi roti or bajra roti."
+      ],
+      "stepsHi": [
+        "जोधपुरी आलू की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -19626,6 +21644,16 @@
         "Simmer until mangodi softens and gravy thickens.",
         "Rajasthani pantry special.",
         "Serve with roti."
+      ],
+      "stepsHi": [
+        "मंगोड़ी आलू के लिए mangodi, आलू धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust water for dry or gravy style as preferred at home."
       ]
     },
     {
@@ -19701,6 +21729,16 @@
         "Pour over khichdi.",
         "Serve with kadhi, papad and ghee.",
         "Simpler than festivities but distinctly Rajasthani in tadka."
+      ],
+      "stepsHi": [
+        "चावल धोकर 15–20 मिनट भिगो दें (खिचड़ी में दाल भी साथ धोएं)।",
+        "घी/तेल में खड़े मसाले और प्याज भूनें। चावल, मूंग दाल डालकर हल्के से भूनें।",
+        "चावल डालें, पानी और नमक मिलाएं। ढककर धीमी आंच पर पकाएं।",
+        "पकने के बाद 5 मिनट ढककर रखें, फिर हल्के हाथ से फुलफुलाएं।",
+        "रायता, अचार या सब्ज़ी/दाल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Extra ghee is traditional."
       ]
     },
     {
@@ -19772,7 +21810,15 @@
         "Shallow fry on medium until crisp and golden both sides.",
         "Serve with chutneys or as chaat with curd and sev.",
         "Keep mash dry for crispiness."
-      ]
+      ],
+      "stepsHi": [
+        "आलू टिक्की की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": []
     },
     {
       "aliases": [
@@ -19857,7 +21903,15 @@
         "Sprinkle chaat masala, cumin powder and sev.",
         "Serve immediately before papdi softens.",
         "Garnish with coriander."
-      ]
+      ],
+      "stepsHi": [
+        "सब्ज़ियाँ धोकर काट लें — आलू, दही।",
+        "हल्के मसाले, नींबू और नमक मिलाएं। तलना कम/नहीं।",
+        "जल्दी मिलाकर तुरंत परोसें ताकि कुरकुरा/ताज़गी बनी रहे।",
+        "मीठी चटनी या चीनी न डालें (खासकर डायबिटीज प्लेट में)।",
+        "दाल-रोटी या अलग स्नैक की तरह खाएं।"
+      ],
+      "tipsHi": []
     },
     {
       "aliases": [
@@ -19929,7 +21983,15 @@
         "Place bhallas in curd; top with chutneys, cumin and chilli powder.",
         "Chill before serving.",
         "Soft soak is the hallmark."
-      ]
+      ],
+      "stepsHi": [
+        "दही भल्ला की मुख्य सामग्री (urad-dal, दही) धीमी आंच पर घी में भूनें — कच्चा स्वाद न रहे।",
+        "चीनी/गुड़ और दूध/पानी सावधानी से मिलाएं। लगातार हिलाएं।",
+        "गाढ़ा और चमकदार होने तक पकाएं। इलायची डालें।",
+        "मेवे से सजाएं।",
+        "गर्म या ठंडा, परिवार के हिसाब से परोसें। (डायबिटीज में मात्रा कम रखें)"
+      ],
+      "tipsHi": []
     },
     {
       "aliases": [
@@ -20007,7 +22069,15 @@
         "Toss quickly.",
         "Serve immediately while crisp.",
         "Do not premix or it turns soggy."
-      ]
+      ],
+      "stepsHi": [
+        "भेल पूरी की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": []
     },
     {
       "aliases": [
@@ -20087,6 +22157,16 @@
         "Shape cones, fill, seal into triangles.",
         "Deep fry on medium-low until golden and crisp (not high flame).",
         "Serve with chutney."
+      ],
+      "stepsHi": [
+        "समोसा की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "Low-medium frying gives crisp layers."
       ]
     },
     {
@@ -20173,6 +22253,16 @@
         "Deep fry on medium flame until golden and crisp.",
         "Drain on paper towels.",
         "Serve hot with green chutney and chai — especially in rain."
+      ],
+      "stepsHi": [
+        "आलू पकोड़ा की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "Batter should coat well; not too thin."
       ]
     },
     {
@@ -20259,6 +22349,16 @@
         "Deep fry on medium flame until golden and crisp.",
         "Drain on paper towels.",
         "Serve hot with green chutney and chai — especially in rain."
+      ],
+      "stepsHi": [
+        "प्याज पकोड़ा की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "Batter should coat well; not too thin."
       ]
     },
     {
@@ -20345,6 +22445,16 @@
         "Deep fry on medium flame until golden and crisp.",
         "Drain on paper towels.",
         "Serve hot with green chutney and chai — especially in rain."
+      ],
+      "stepsHi": [
+        "पनीर पकोड़ा की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "Batter should coat well; not too thin."
       ]
     },
     {
@@ -20431,6 +22541,16 @@
         "Deep fry on medium flame until golden and crisp.",
         "Drain on paper towels.",
         "Serve hot with green chutney and chai — especially in rain."
+      ],
+      "stepsHi": [
+        "ब्रेड पकोड़ा की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "Batter should coat well; not too thin."
       ]
     },
     {
@@ -20506,6 +22626,16 @@
         "Shallow fry until crisp both sides.",
         "Serve with chutney or ketchup.",
         "Mixture must be dry enough to hold shape."
+      ],
+      "stepsHi": [
+        "वेजिटेबल कटलेट की डो/बैटर और भरवन तैयार कर लें। भरवन ज्यादा गीला न हो।",
+        "आकार बनाएं (पूरी/कचौरी/पकोड़ा)। किनारे अच्छी तरह बंद करें।",
+        "तेल मध्यम आंच पर गर्म करें — बहुत तेज़ आंच पर बाहर जल जाएगा, अंदर कच्चा रह सकता है।",
+        "सुनहरा और कुरकुरा होने तक तलें। पेपर पर निकालें।",
+        "चटनी, सब्ज़ी या चाय के साथ तुरंत परोसें।"
+      ],
+      "tipsHi": [
+        "Chill shaped cutlets 10 minutes before frying."
       ]
     },
     {
@@ -20609,6 +22739,16 @@
         "Add mashed veg; mash together with butter and water to a soft bhaji.",
         "Toast pav with butter on the tawa.",
         "Serve bhaji with pav, onion and lemon."
+      ],
+      "stepsHi": [
+        "पाव भाजी के लिए आलू, गोभी, pav धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "More butter = more street-style flavour."
       ]
     },
     {
@@ -20697,6 +22837,16 @@
         "Add noodles, sauces and salt; toss quickly.",
         "Do not overcook.",
         "Serve hot with chilli sauce."
+      ],
+      "stepsHi": [
+        "वेज हक्का नूडल्स के लिए noodles, पत्ता गोभी, capsicum धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "High heat keeps noodles from turning soggy."
       ]
     },
     {
@@ -20774,6 +22924,16 @@
         "Carefully add hot syrup to roasted suji while stirring.",
         "Cook until ghee separates and halwa leaves the sides.",
         "Garnish with nuts. Prasad-style classic."
+      ],
+      "stepsHi": [
+        "सूजी हलवा की मुख्य सामग्री (सूजी) धीमी आंच पर घी में भूनें — कच्चा स्वाद न रहे।",
+        "चीनी/गुड़ और दूध/पानी सावधानी से मिलाएं। लगातार हिलाएं।",
+        "गाढ़ा और चमकदार होने तक पकाएं। इलायची डालें।",
+        "मेवे से सजाएं।",
+        "गर्म या ठंडा, परिवार के हिसाब से परोसें। (डायबिटीज में मात्रा कम रखें)"
+      ],
+      "tipsHi": [
+        "Use heavy-bottomed pan to avoid burning."
       ]
     },
     {
@@ -20845,6 +23005,16 @@
         "Add sugar and cardamom; cook until glossy and thick.",
         "Garnish with nuts.",
         "Slow roasting is everything."
+      ],
+      "stepsHi": [
+        "बेसन हलवा की मुख्य सामग्री (बेसन) धीमी आंच पर घी में भूनें — कच्चा स्वाद न रहे।",
+        "चीनी/गुड़ और दूध/पानी सावधानी से मिलाएं। लगातार हिलाएं।",
+        "गाढ़ा और चमकदार होने तक पकाएं। इलायची डालें।",
+        "मेवे से सजाएं।",
+        "गर्म या ठंडा, परिवार के हिसाब से परोसें। (डायबिटीज में मात्रा कम रखें)"
+      ],
+      "tipsHi": [
+        "Use heavy-bottomed pan to avoid burning."
       ]
     },
     {
@@ -20916,6 +23086,16 @@
         "Add khoya if using.",
         "Garnish with nuts.",
         "Festive Rajasthani/North Indian special."
+      ],
+      "stepsHi": [
+        "मूंग दाल धोकर हल्दी-नमक के साथ नरम होने तक उबालें/प्रेशर कुक करें। हल्के हाथ से मैश करें।",
+        "घी/तेल में जीरा, हींग, लहसुन-प्याज का तड़का लगाएं।",
+        "टमाटर और मसाले भूनकर दाल में मिलाएं।",
+        "गाढ़ापन देखकर पानी मिलाएं। 5–8 मिनट हल्की आंच पर पकाएं।",
+        "ऊपर से घी और धनिया डालकर चावल या रोटी के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Use heavy-bottomed pan to avoid burning."
       ]
     },
     {
@@ -20994,6 +23174,16 @@
         "Add ghee and khoya; roast until glossy.",
         "Finish with cardamom and nuts.",
         "Winter favourite — use red Delhi carrots if possible."
+      ],
+      "stepsHi": [
+        "गाजर हलवा की मुख्य सामग्री (गाजर) धीमी आंच पर घी में भूनें — कच्चा स्वाद न रहे।",
+        "चीनी/गुड़ और दूध/पानी सावधानी से मिलाएं। लगातार हिलाएं।",
+        "गाढ़ा और चमकदार होने तक पकाएं। इलायची डालें।",
+        "मेवे से सजाएं।",
+        "गर्म या ठंडा, परिवार के हिसाब से परोसें। (डायबिटीज में मात्रा कम रखें)"
+      ],
+      "tipsHi": [
+        "Use heavy-bottomed pan to avoid burning."
       ]
     },
     {
@@ -21065,6 +23255,16 @@
         "Add sugar and cardamom; cook 5 more minutes.",
         "Garnish with nuts. Serve warm or chilled.",
         "Do not rush — slow reduction makes creamy kheer."
+      ],
+      "stepsHi": [
+        "खीर की मुख्य सामग्री (चावल) धीमी आंच पर घी में भूनें — कच्चा स्वाद न रहे।",
+        "चीनी/गुड़ और दूध/पानी सावधानी से मिलाएं। लगातार हिलाएं।",
+        "गाढ़ा और चमकदार होने तक पकाएं। इलायची डालें।",
+        "मेवे से सजाएं।",
+        "गर्म या ठंडा, परिवार के हिसाब से परोसें। (डायबिटीज में मात्रा कम रखें)"
+      ],
+      "tipsHi": [
+        "Use heavy-bottomed pan to avoid burning."
       ]
     },
     {
@@ -21136,6 +23336,16 @@
         "Add sugar and cardamom.",
         "Garnish with nuts.",
         "Quick festive dessert — Eid and family dinners."
+      ],
+      "stepsHi": [
+        "सेवईं खीर की मुख्य सामग्री (vermicelli) धीमी आंच पर घी में भूनें — कच्चा स्वाद न रहे।",
+        "चीनी/गुड़ और दूध/पानी सावधानी से मिलाएं। लगातार हिलाएं।",
+        "गाढ़ा और चमकदार होने तक पकाएं। इलायची डालें।",
+        "मेवे से सजाएं।",
+        "गर्म या ठंडा, परिवार के हिसाब से परोसें। (डायबिटीज में मात्रा कम रखें)"
+      ],
+      "tipsHi": [
+        "Use heavy-bottomed pan to avoid burning."
       ]
     },
     {
@@ -21212,6 +23422,16 @@
         "Fry ladlefuls of batter in medium-hot ghee until golden and crisp at edges.",
         "Dip malpuas in warm syrup.",
         "Serve with rabri optional — Holi/festive special in Jaunpur homes too."
+      ],
+      "stepsHi": [
+        "मालपुआ की मुख्य सामग्री (maida, milk) धीमी आंच पर घी में भूनें — कच्चा स्वाद न रहे।",
+        "चीनी/गुड़ और दूध/पानी सावधानी से मिलाएं। लगातार हिलाएं।",
+        "गाढ़ा और चमकदार होने तक पकाएं। इलायची डालें।",
+        "मेवे से सजाएं।",
+        "गर्म या ठंडा, परिवार के हिसाब से परोसें। (डायबिटीज में मात्रा कम रखें)"
+      ],
+      "tipsHi": [
+        "Medium flame keeps insides cooked without burning."
       ]
     },
     {
@@ -21295,6 +23515,16 @@
         "Roll discs, fill, seal into half-moons (crimp edges).",
         "Deep fry on medium until golden.",
         "Cool and store in airtight box — Holi essential."
+      ],
+      "stepsHi": [
+        "गुजिया की मुख्य सामग्री (maida, khoya) धीमी आंच पर घी में भूनें — कच्चा स्वाद न रहे।",
+        "चीनी/गुड़ और दूध/पानी सावधानी से मिलाएं। लगातार हिलाएं।",
+        "गाढ़ा और चमकदार होने तक पकाएं। इलायची डालें।",
+        "मेवे से सजाएं।",
+        "गर्म या ठंडा, परिवार के हिसाब से परोसें। (डायबिटीज में मात्रा कम रखें)"
+      ],
+      "tipsHi": [
+        "Seal edges well or filling leaks while frying."
       ]
     },
     {
@@ -21381,6 +23611,16 @@
         "Shape into patterned discs (use mould or fork).",
         "Deep fry on medium-low until deep brown and cooked inside.",
         "Chhath and festive prasadam across Purvanchal."
+      ],
+      "stepsHi": [
+        "ठेकुआ की मुख्य सामग्री (आटा, jaggery) धीमी आंच पर घी में भूनें — कच्चा स्वाद न रहे।",
+        "चीनी/गुड़ और दूध/पानी सावधानी से मिलाएं। लगातार हिलाएं।",
+        "गाढ़ा और चमकदार होने तक पकाएं। इलायची डालें।",
+        "मेवे से सजाएं।",
+        "गर्म या ठंडा, परिवार के हिसाब से परोसें। (डायबिटीज में मात्रा कम रखें)"
+      ],
+      "tipsHi": [
+        "Low flame frying cooks the centre without burning."
       ]
     },
     {
@@ -21456,6 +23696,16 @@
         "Adjust sweetness.",
         "Garnish with nuts.",
         "Serve with dal baati or as dessert."
+      ],
+      "stepsHi": [
+        "चूरमा की मुख्य सामग्री (आटा, ghee, jaggery) धीमी आंच पर घी में भूनें — कच्चा स्वाद न रहे।",
+        "चीनी/गुड़ और दूध/पानी सावधानी से मिलाएं। लगातार हिलाएं।",
+        "गाढ़ा और चमकदार होने तक पकाएं। इलायची डालें।",
+        "मेवे से सजाएं।",
+        "गर्म या ठंडा, परिवार के हिसाब से परोसें। (डायबिटीज में मात्रा कम रखें)"
+      ],
+      "tipsHi": [
+        "Coarse texture is traditional — not a fine powder."
       ]
     },
     {
@@ -21520,6 +23770,16 @@
         "Add sugar and cardamom; cook until thick.",
         "Add khoya optional.",
         "Garnish with nuts."
+      ],
+      "stepsHi": [
+        "लौकी हलवा की मुख्य सामग्री (लौकी) धीमी आंच पर घी में भूनें — कच्चा स्वाद न रहे।",
+        "चीनी/गुड़ और दूध/पानी सावधानी से मिलाएं। लगातार हिलाएं।",
+        "गाढ़ा और चमकदार होने तक पकाएं। इलायची डालें।",
+        "मेवे से सजाएं।",
+        "गर्म या ठंडा, परिवार के हिसाब से परोसें। (डायबिटीज में मात्रा कम रखें)"
+      ],
+      "tipsHi": [
+        "Adjust sweetness/spice to family taste."
       ]
     },
     {
@@ -21584,6 +23844,16 @@
         "Shape into ladoos while still warm.",
         "Set aside to firm.",
         "Festive classic."
+      ],
+      "stepsHi": [
+        "बेसन लड्डू की मुख्य सामग्री (बेसन) धीमी आंच पर घी में भूनें — कच्चा स्वाद न रहे।",
+        "चीनी/गुड़ और दूध/पानी सावधानी से मिलाएं। लगातार हिलाएं।",
+        "गाढ़ा और चमकदार होने तक पकाएं। इलायची डालें।",
+        "मेवे से सजाएं।",
+        "गर्म या ठंडा, परिवार के हिसाब से परोसें। (डायबिटीज में मात्रा कम रखें)"
+      ],
+      "tipsHi": [
+        "Adjust sweetness/spice to family taste."
       ]
     },
     {
@@ -21648,6 +23918,16 @@
         "Shape ladoos; roll in coconut.",
         "Cool to set.",
         "Quick sweet."
+      ],
+      "stepsHi": [
+        "नारियल लड्डू की मुख्य सामग्री (coconut) धीमी आंच पर घी में भूनें — कच्चा स्वाद न रहे।",
+        "चीनी/गुड़ और दूध/पानी सावधानी से मिलाएं। लगातार हिलाएं।",
+        "गाढ़ा और चमकदार होने तक पकाएं। इलायची डालें।",
+        "मेवे से सजाएं।",
+        "गर्म या ठंडा, परिवार के हिसाब से परोसें। (डायबिटीज में मात्रा कम रखें)"
+      ],
+      "tipsHi": [
+        "Adjust sweetness/spice to family taste."
       ]
     },
     {
@@ -21657,7 +23937,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ghee",
@@ -21714,7 +23995,18 @@
         "Season with salt and lemon.",
         "Serve hot as light dinner starter.",
         "Comforting when someone is unwell."
-      ]
+      ],
+      "stepsHi": [
+        "सब्ज़ियाँ धोकर काट लें — गाजर, beans।",
+        "हल्के मसाले, नींबू और नमक मिलाएं। तलना कम/नहीं।",
+        "जल्दी मिलाकर तुरंत परोसें ताकि कुरकुरा/ताज़गी बनी रहे।",
+        "मीठी चटनी या चीनी न डालें (खासकर डायबिटीज प्लेट में)।",
+        "दाल-रोटी या अलग स्नैक की तरह खाएं।"
+      ],
+      "tipsHi": [
+        "Adjust sweetness/spice to family taste."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -21722,7 +24014,8 @@
         "Indian Home Kitchen"
       ],
       "categories": [
-        "Evening Snacks"
+        "Evening Snacks",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ghee",
@@ -21778,7 +24071,18 @@
         "Serve immediately.",
         "Optional butter.",
         "Quick evening snack."
-      ]
+      ],
+      "stepsHi": [
+        "कॉर्न चाट के लिए corn धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust sweetness/spice to family taste."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -21786,7 +24090,8 @@
         "Indian Home Kitchen"
       ],
       "categories": [
-        "Evening Snacks"
+        "Evening Snacks",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ghee",
@@ -21842,7 +24147,18 @@
         "Finish with sev.",
         "Healthy chaat.",
         "Do not oversteam sprouts."
-      ]
+      ],
+      "stepsHi": [
+        "स्प्राउट्स चाट के लिए चना धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust sweetness/spice to family taste."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -21851,7 +24167,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ghee",
@@ -21908,7 +24225,18 @@
         "Serve with rice or as soup.",
         "Digestive and light.",
         "South Indian comfort."
-      ]
+      ],
+      "stepsHi": [
+        "सब्ज़ियाँ धोकर काट लें — tomato, अरहर दाल।",
+        "हल्के मसाले, नींबू और नमक मिलाएं। तलना कम/नहीं।",
+        "जल्दी मिलाकर तुरंत परोसें ताकि कुरकुरा/ताज़गी बनी रहे।",
+        "मीठी चटनी या चीनी न डालें (खासकर डायबिटीज प्लेट में)।",
+        "दाल-रोटी या अलग स्नैक की तरह खाएं।"
+      ],
+      "tipsHi": [
+        "Adjust sweetness/spice to family taste."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -21917,7 +24245,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ghee",
@@ -21973,7 +24302,18 @@
         "Finish with garam masala.",
         "Simple everyday sabzi.",
         "Do not cover too long."
-      ]
+      ],
+      "stepsHi": [
+        "पत्ता गोभी सब्ज़ी के लिए पत्ता गोभी धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust sweetness/spice to family taste."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -21982,7 +24322,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ghee",
@@ -22039,7 +24380,18 @@
         "Add grated coconut.",
         "South Indian dry vegetable.",
         "Keep beans bright green."
-      ]
+      ],
+      "stepsHi": [
+        "बीन्स पोरियल के लिए beans, coconut धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust sweetness/spice to family taste."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
     },
     {
       "aliases": [],
@@ -22048,7 +24400,8 @@
       ],
       "categories": [
         "Lunch",
-        "Dinner"
+        "Dinner",
+        "Diabetes Special"
       ],
       "otherIngredients": [
         "ghee",
@@ -22105,7 +24458,490 @@
         "Everyday emergency sabzi when fridge is empty.",
         "Serve with roti.",
         "Add potato if available."
-      ]
+      ],
+      "stepsHi": [
+        "प्याज टमाटर सब्ज़ी के लिए onion, tomato धोकर काट लें।",
+        "तेल/सरसों तेल गर्म करके जीरा का तड़का लगाएं। प्याज-अदरक-लहसुन भूनें।",
+        "टमाटर और मसाले (हल्दी, मिर्च, धनिया) डालकर भूनें जब तक मसाला बैठ जाए।",
+        "सब्ज़ी डालकर ढककर पकाएं। बीच-बीच में हिलाएं। नमक और पानी जरूरत अनुसार डालें।",
+        "गरम मसाला/अमचूर और धनिया डालकर रोटी या चावल के साथ परोसें।"
+      ],
+      "tipsHi": [
+        "Adjust sweetness/spice to family taste."
+      ],
+      "diabetesNotes": "Prefer less oil/ghee; watch portion of rice/roti; avoid sugar."
+    },
+    {
+      "id": "cucumber-tomato-salad",
+      "name": "Cucumber Tomato Salad",
+      "nameHi": "खीरा टमाटर सलाद",
+      "aliases": [
+        "Kheera Salad",
+        "Diabetes Salad"
+      ],
+      "region": [
+        "North India"
+      ],
+      "categories": [
+        "Lunch",
+        "Dinner",
+        "Diabetes Special",
+        "Evening Snacks"
+      ],
+      "mainIngredients": [
+        "tomato"
+      ],
+      "ingredients": [
+        {
+          "name": "Cucumber",
+          "quantity": 2,
+          "unit": "medium",
+          "ingredientId": null
+        },
+        {
+          "name": "Tomato",
+          "quantity": 2,
+          "unit": "medium",
+          "ingredientId": "tomato"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "small",
+          "ingredientId": "onion"
+        },
+        {
+          "name": "Lemon",
+          "quantity": 1,
+          "unit": "piece",
+          "ingredientId": "lemon"
+        },
+        {
+          "name": "Roasted cumin powder",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredientId": "cumin"
+        },
+        {
+          "name": "Black salt / salt",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredientId": "salt"
+        },
+        {
+          "name": "Coriander",
+          "quantity": 1,
+          "unit": "tbsp",
+          "ingredientId": "coriander"
+        }
+      ],
+      "servings": 2,
+      "prepTime": 10,
+      "cookTime": 0,
+      "difficulty": "Easy",
+      "steps": [
+        "Wash and chop cucumber, tomato and onion into small pieces.",
+        "Mix with lemon juice, roasted cumin, salt and coriander.",
+        "Eat fresh as a side with dal-roti — light for blood sugar control.",
+        "Do not add sugar or sweet chutney.",
+        "Optional: add soaked sprouts for more fibre."
+      ],
+      "stepsHi": [
+        "खीरा, टमाटर और प्याज धोकर छोटे टुकड़ों में काट लें।",
+        "नींबू, भुना जीरा, नमक और धनिया मिलाकर अच्छी तरह मिक्स करें।",
+        "दाल-रोटी के साथ तुरंत खाएं — शुगर कंट्रोल के लिए हल्का और अच्छा।",
+        "चीनी या मीठी चटनी बिल्कुल न डालें।",
+        "चाहें तो भीगे हुए स्प्राउट्स भी मिला सकते हैं — फाइबर बढ़ जाएगा।"
+      ],
+      "tips": [
+        "Papa ke liye best side dish — no frying, no sugar."
+      ],
+      "tipsHi": [
+        "पापा के लिए बेस्ट साइड डिश — बिना तलन, बिना चीनी।"
+      ],
+      "season": [
+        "Summer",
+        "All"
+      ],
+      "diet": "Vegetarian",
+      "diabetesNotes": "Very low GI side. Pair with dal and 1-2 rotis.",
+      "otherIngredients": []
+    },
+    {
+      "id": "methi-daliya",
+      "name": "Methi Daliya",
+      "nameHi": "मेथी दलिया",
+      "aliases": [
+        "Fenugreek Dalia",
+        "Diabetes Daliya"
+      ],
+      "region": [
+        "North India"
+      ],
+      "categories": [
+        "Breakfast",
+        "Lunch",
+        "Diabetes Special"
+      ],
+      "mainIngredients": [
+        "daliya",
+        "methi"
+      ],
+      "ingredients": [
+        {
+          "name": "Daliya (broken wheat)",
+          "quantity": 1,
+          "unit": "cup",
+          "ingredientId": "daliya"
+        },
+        {
+          "name": "Fresh methi leaves",
+          "quantity": 1,
+          "unit": "cup",
+          "ingredientId": "methi"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "small",
+          "ingredientId": "onion"
+        },
+        {
+          "name": "Tomato",
+          "quantity": 1,
+          "unit": "small",
+          "ingredientId": "tomato"
+        },
+        {
+          "name": "Ghee or oil",
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredientId": "ghee"
+        },
+        {
+          "name": "Cumin",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredientId": "cumin"
+        },
+        {
+          "name": "Water",
+          "quantity": 3,
+          "unit": "cups",
+          "ingredientId": null
+        },
+        {
+          "name": "Salt",
+          "quantity": 0.75,
+          "unit": "tsp",
+          "ingredientId": "salt"
+        }
+      ],
+      "servings": 2,
+      "prepTime": 10,
+      "cookTime": 25,
+      "difficulty": "Easy",
+      "steps": [
+        "Dry roast daliya lightly. Heat 1 tsp ghee, add cumin and onion.",
+        "Add tomato, methi and spices; sauté 2 minutes.",
+        "Add daliya, water and salt. Pressure cook 2–3 whistles.",
+        "Serve warm — keep oil minimal for diabetes plate.",
+        "Pair with plain curd (unsweetened)."
+      ],
+      "stepsHi": [
+        "दलिया हल्का भून लें। 1 छोटा चम्मच घी में जीरा और प्याज तड़कें।",
+        "टमाटर, मेथी और मसाले डालकर 2 मिनट भूनें।",
+        "दलिया, पानी और नमक डालकर 2–3 सीटी तक पकाएं।",
+        "गर्म-गर्म परोसें — डायबिटीज के लिए तेल कम रखें।",
+        "बिना चीनी वाले सादे दही के साथ खाएं।"
+      ],
+      "tips": [
+        "Methi helps; keep ghee to 1 tsp."
+      ],
+      "tipsHi": [
+        "मेथी फायदेमंद है; घी सिर्फ 1 छोटा चम्मच रखें।"
+      ],
+      "season": [
+        "Winter",
+        "All"
+      ],
+      "diet": "Vegetarian",
+      "diabetesNotes": "High fibre breakfast. Avoid potato in this version.",
+      "otherIngredients": []
+    },
+    {
+      "id": "lauki-soup",
+      "name": "Lauki Soup",
+      "nameHi": "लौकी सूप",
+      "aliases": [
+        "Bottle Gourd Soup",
+        "Diabetes Soup"
+      ],
+      "region": [
+        "North India"
+      ],
+      "categories": [
+        "Dinner",
+        "Lunch",
+        "Diabetes Special"
+      ],
+      "mainIngredients": [
+        "lauki"
+      ],
+      "ingredients": [
+        {
+          "name": "Lauki, cubed",
+          "quantity": 3,
+          "unit": "cups",
+          "ingredientId": "lauki"
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": "tsp",
+          "ingredientId": "ginger"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredientId": null
+        },
+        {
+          "name": "Cumin",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredientId": "cumin"
+        },
+        {
+          "name": "Salt",
+          "quantity": 0.75,
+          "unit": "tsp",
+          "ingredientId": "salt"
+        },
+        {
+          "name": "Water",
+          "quantity": 3,
+          "unit": "cups",
+          "ingredientId": null
+        },
+        {
+          "name": "Lemon",
+          "quantity": 0.5,
+          "unit": "piece",
+          "ingredientId": "lemon"
+        }
+      ],
+      "servings": 2,
+      "prepTime": 10,
+      "cookTime": 20,
+      "difficulty": "Easy",
+      "steps": [
+        "Boil lauki with ginger, cumin and salt until soft.",
+        "Blend smooth (or keep slightly chunky).",
+        "Simmer 2 minutes; add pepper and lemon.",
+        "No cream, no cornflour — keep it light.",
+        "Good light dinner option for Papa."
+      ],
+      "stepsHi": [
+        "लौकी को अदरक, जीरा और नमक के साथ उबालें जब तक नरम हो जाए।",
+        "मिक्सी में महीन पीस लें (या थोड़ा मोटा रख सकते हैं)।",
+        "2 मिनट हल्की आंच पर पकाएं; काली मिर्च और नींबू डालें।",
+        "मलाई या कॉर्नफ्लोर बिल्कुल न डालें — हल्का रखें।",
+        "पापा के लिए रात का हल्का खाना बहुत अच्छा है।"
+      ],
+      "tips": [
+        "Add a spoon of moong dal while boiling for more protein."
+      ],
+      "tipsHi": [
+        "प्रोटीन के लिए उबालते समय 1 चम्मच मूंग दाल मिला सकते हैं।"
+      ],
+      "season": [
+        "All"
+      ],
+      "diet": "Vegetarian",
+      "diabetesNotes": "Hydrating, low calorie, low GI.",
+      "otherIngredients": []
+    },
+    {
+      "id": "moong-sprouts-salad",
+      "name": "Moong Sprouts Salad",
+      "nameHi": "मूंग स्प्राउट्स सलाद",
+      "aliases": [
+        "Sprouted Moong Salad"
+      ],
+      "region": [
+        "North India"
+      ],
+      "categories": [
+        "Breakfast",
+        "Evening Snacks",
+        "Diabetes Special",
+        "Lunch"
+      ],
+      "mainIngredients": [
+        "moong-dal"
+      ],
+      "ingredients": [
+        {
+          "name": "Sprouted moong",
+          "quantity": 1.5,
+          "unit": "cups",
+          "ingredientId": "moong-dal"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "small",
+          "ingredientId": "onion"
+        },
+        {
+          "name": "Tomato",
+          "quantity": 1,
+          "unit": "medium",
+          "ingredientId": "tomato"
+        },
+        {
+          "name": "Cucumber",
+          "quantity": 1,
+          "unit": "small",
+          "ingredientId": null
+        },
+        {
+          "name": "Lemon",
+          "quantity": 1,
+          "unit": "piece",
+          "ingredientId": "lemon"
+        },
+        {
+          "name": "Chaat masala / roasted cumin",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredientId": "amchur"
+        },
+        {
+          "name": "Salt",
+          "quantity": 0.5,
+          "unit": "tsp",
+          "ingredientId": "salt"
+        }
+      ],
+      "servings": 2,
+      "prepTime": 10,
+      "cookTime": 5,
+      "difficulty": "Easy",
+      "steps": [
+        "Steam sprouts 3–4 minutes or use raw if soft.",
+        "Mix chopped onion, tomato, cucumber, lemon, spices and salt.",
+        "Serve immediately — no frying.",
+        "Excellent high-protein diabetes snack.",
+        "Avoid sev and sweet chutney."
+      ],
+      "stepsHi": [
+        "स्प्राउट्स को 3–4 मिनट हल्का स्टीम करें, या नरम हों तो कच्चे भी चला सकते हैं।",
+        "प्याज, टमाटर, खीरा, नींबू, मसाले और नमक मिलाएं।",
+        "तुरंत परोसें — बिल्कुल न तलें।",
+        "डायबिटीज के लिए हाई-प्रोटीन और बहुत अच्छा स्नैक।",
+        "सेव और मीठी चटनी मत डालें।"
+      ],
+      "tips": [
+        "Sprout moong at home overnight for best freshness."
+      ],
+      "tipsHi": [
+        "घर पर मूंग अंकुरित करें — ताज़ा और सस्ता।"
+      ],
+      "season": [
+        "All"
+      ],
+      "diet": "Vegetarian",
+      "diabetesNotes": "Protein + fibre snack between meals.",
+      "otherIngredients": []
+    },
+    {
+      "id": "tawa-fish-free-plate",
+      "name": "Diabetes Thali Plate (Veg)",
+      "nameHi": "डायबिटीज थाली प्लेट",
+      "aliases": [
+        "Papa Diabetes Plate",
+        "Balanced Veg Plate"
+      ],
+      "region": [
+        "North India",
+        "Jaunpur",
+        "Jaipur"
+      ],
+      "categories": [
+        "Lunch",
+        "Dinner",
+        "Diabetes Special"
+      ],
+      "mainIngredients": [
+        "toor-dal",
+        "lauki",
+        "wheat-flour"
+      ],
+      "ingredients": [
+        {
+          "name": "Dal (moong/toor)",
+          "quantity": 1,
+          "unit": "bowl",
+          "ingredientId": "toor-dal"
+        },
+        {
+          "name": "Lauki or bhindi sabzi",
+          "quantity": 1,
+          "unit": "bowl",
+          "ingredientId": "lauki"
+        },
+        {
+          "name": "Phulka / missi roti",
+          "quantity": 2,
+          "unit": "pieces",
+          "ingredientId": "wheat-flour"
+        },
+        {
+          "name": "Salad",
+          "quantity": 1,
+          "unit": "bowl",
+          "ingredientId": "tomato"
+        },
+        {
+          "name": "Plain curd (unsweetened)",
+          "quantity": 0.5,
+          "unit": "cup",
+          "ingredientId": "curd"
+        }
+      ],
+      "servings": 1,
+      "prepTime": 20,
+      "cookTime": 30,
+      "difficulty": "Easy",
+      "steps": [
+        "Cook a simple dal with less oil and a fibre-rich sabzi (lauki/bhindi/karela/methi).",
+        "Make 1–2 thin rotis (prefer missi/bajra sometimes).",
+        "Add a big salad and unsweetened curd.",
+        "Skip rice on most days; if rice, use small portion and add extra sabzi.",
+        "No sweet dish after meals — walk 10 minutes if possible."
+      ],
+      "stepsHi": [
+        "कम तेल वाली दाल और फाइबर वाली सब्ज़ी बनाएं (लौकी/भिंडी/करेला/मेथी)।",
+        "1–2 पतली रोटी लगाएं (कभी-कभी मिस्सी या बाजरा बेहतर)।",
+        "बड़ा सलाद और बिना चीनी वाला दही ज़रूर रखें।",
+        "अक्सर चावल छोड़ दें; अगर खाएं तो थोड़ा सा और सब्ज़ी ज्यादा।",
+        "खाने के बाद मीठा नहीं — हो सके तो 10 मिनट टहल लें।"
+      ],
+      "tips": [
+        "This is a template plate for Papa — swap sabzi by season."
+      ],
+      "tipsHi": [
+        "पापा के लिए आसान प्लेट टेम्पलेट — मौसम के हिसाब से सब्ज़ी बदलें।"
+      ],
+      "season": [
+        "All"
+      ],
+      "diet": "Vegetarian",
+      "diabetesNotes": "Balanced plate: protein + fibre + controlled carbs.",
+      "otherIngredients": []
     }
   ]
 }

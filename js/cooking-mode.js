@@ -2,6 +2,11 @@ const CookingMode = (() => {
   let recipe = null;
   let step = 0;
 
+  function stepsOf(r) {
+    if (r.stepsHi && r.stepsHi.length) return r.stepsHi;
+    return r.steps || [];
+  }
+
   function start(r) {
     recipe = r;
     step = 0;
@@ -10,19 +15,21 @@ const CookingMode = (() => {
 
   function current() {
     if (!recipe) return null;
+    const steps = stepsOf(recipe);
     return {
       recipe,
       index: step,
-      total: recipe.steps.length,
-      text: recipe.steps[step],
+      total: steps.length,
+      text: steps[step],
       isFirst: step === 0,
-      isLast: step === recipe.steps.length - 1,
+      isLast: step === steps.length - 1,
     };
   }
 
   function next() {
     if (!recipe) return null;
-    if (step < recipe.steps.length - 1) step += 1;
+    const steps = stepsOf(recipe);
+    if (step < steps.length - 1) step += 1;
     return current();
   }
 

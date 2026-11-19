@@ -115,6 +115,7 @@ const CATEGORIES = [
   { id: "Purvanchal Special", name: "Purvanchal Special", nameHi: "हमारा खास खाना", icon: "🏡" },
   { id: "Rajasthani Special", name: "Rajasthani Special", nameHi: "राजस्थानी स्पेशल", icon: "🏜️" },
   { id: "Sweets", name: "Sweets", nameHi: "मिठाई", icon: "🍮" },
+  { id: "Diabetes Special", name: "Diabetes Special", nameHi: "डायबिटीज स्पेशल", icon: "🩺" },
   { id: "Traditional", name: "Traditional", nameHi: "पारंपरिक", icon: "🪔" },
 ];
 
