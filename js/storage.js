@@ -5,6 +5,10 @@ const Storage = (() => {
     planner: "ofk_planner",
     shopping: "ofk_shopping",
     customShop: "ofk_custom_shop",
+    dkLimits: "ofk_dk_limits",
+    dkPlanner: "ofk_dk_planner",
+    dkShop: "ofk_dk_shop",
+    dkFilters: "ofk_dk_filters",
   };
 
   function read(key, fallback) {
@@ -87,13 +91,17 @@ const Storage = (() => {
 
   function exportAll() {
     return {
-      version: 1,
+      version: 2,
       exportedAt: new Date().toISOString(),
       favourites: getFavourites(),
       recent: getRecent(),
       planner: getPlanner(),
       shopping: getShopping(),
       customShop: getCustomShop(),
+      dkLimits: read(KEYS.dkLimits, null),
+      dkPlanner: read(KEYS.dkPlanner, null),
+      dkShop: read(KEYS.dkShop, null),
+      dkFilters: read(KEYS.dkFilters, null),
     };
   }
 
@@ -104,6 +112,10 @@ const Storage = (() => {
     if (data.planner) write(KEYS.planner, data.planner);
     if (data.shopping) write(KEYS.shopping, data.shopping);
     if (data.customShop) write(KEYS.customShop, data.customShop);
+    if (data.dkLimits) write(KEYS.dkLimits, data.dkLimits);
+    if (data.dkPlanner) write(KEYS.dkPlanner, data.dkPlanner);
+    if (data.dkShop) write(KEYS.dkShop, data.dkShop);
+    if (data.dkFilters) write(KEYS.dkFilters, data.dkFilters);
   }
 
   function resetAll() {

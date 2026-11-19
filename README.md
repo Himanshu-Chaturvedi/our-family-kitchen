@@ -8,7 +8,8 @@ Built with plain HTML, CSS and JavaScript. No backend, no frameworks, no paid se
 
 - 227 unique vegetarian Indian recipes (Hindi + English)
 - Hinglish/Hindi विधि (cooking steps) for easy reading
-- Meal browsing: Breakfast, Lunch, Dinner, Snacks, Purvanchal, Rajasthani, Sweets, Diabetes Special (Papa)
+- Meal browsing: Breakfast, Lunch, Dinner, Snacks, Purvanchal, Rajasthani, Sweets
+- **Separate Diabetes & Kidney Care module** (शुगर और किडनी स्पेशल) with suitability flags, configurable clinician limits, DK weekly planner — not a medical prescription
 - Ingredient finder (match ANY / ALL vegetables on hand)
 - Search across English, Hindi and aliases (e.g. matar / मटर / nimona)
 - Recipe detail with scaled servings

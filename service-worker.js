@@ -1,4 +1,4 @@
-const CACHE = "family-kitchen-v2";
+const CACHE = "family-kitchen-v3";
 const ASSETS = [
   "./",
   "./index.html",
@@ -13,9 +13,11 @@ const ASSETS = [
   "./js/planner.js",
   "./js/shopping.js",
   "./js/cooking-mode.js",
+  "./js/dk-care.js",
   "./data/recipes.json",
   "./data/ingredients.json",
   "./data/categories.json",
+  "./data/dk-recipes.json",
   "./assets/icons/icon-192.png",
   "./assets/icons/icon-512.png",
 ];
