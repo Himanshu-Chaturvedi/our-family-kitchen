@@ -4,6 +4,9 @@
 
 Built with plain HTML, CSS and JavaScript. No backend, no frameworks, no paid services.
 
+**Full documentation:** [docs/PROJECT_DOCUMENTATION.md](docs/PROJECT_DOCUMENTATION.md)  
+**Live site:** https://himanshu-chaturvedi.github.io/our-family-kitchen/
+
 ## Features
 
 - 227 unique vegetarian Indian recipes (Hindi + English)
