@@ -1,0 +1,26 @@
+{
+  "name": "हमारा रसोई घर — Our Family Kitchen",
+  "short_name": "Family Kitchen",
+  "description": "Jaunpur to Jaipur vegetarian family recipes. Simple kitchen companion for Mom.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f0e4",
+  "theme_color": "#2f6b4f",
+  "orientation": "portrait-primary",
+  "lang": "hi",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

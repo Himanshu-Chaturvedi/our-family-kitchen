@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": "Breakfast",
+      "name": "Breakfast",
+      "nameHi": "नाश्ता",
+      "icon": "🌅"
+    },
+    {
+      "id": "Lunch",
+      "name": "Lunch",
+      "nameHi": "दोपहर का खाना",
+      "icon": "☀️"
+    },
+    {
+      "id": "Dinner",
+      "name": "Dinner",
+      "nameHi": "रात का खाना",
+      "icon": "🌙"
+    },
+    {
+      "id": "Evening Snacks",
+      "name": "Evening Snacks",
+      "nameHi": "शाम का नाश्ता",
+      "icon": "🫖"
+    },
+    {
+      "id": "Purvanchal Special",
+      "name": "Purvanchal Special",
+      "nameHi": "हमारा खास खाना",
+      "icon": "🏡"
+    },
+    {
+      "id": "Rajasthani Special",
+      "name": "Rajasthani Special",
+      "nameHi": "राजस्थानी स्पेशल",
+      "icon": "🏜️"
+    },
+    {
+      "id": "Sweets",
+      "name": "Sweets",
+      "nameHi": "मिठाई",
+      "icon": "🍮"
+    },
+    {
+      "id": "Traditional",
+      "name": "Traditional",
+      "nameHi": "पारंपरिक",
+      "icon": "🪔"
+    }
+  ]
+}

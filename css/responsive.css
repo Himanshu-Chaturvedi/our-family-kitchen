@@ -1,0 +1,52 @@
+@media (min-width: 640px) {
+  html {
+    font-size: 18px;
+  }
+
+  .nav-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .ing-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .hero h1 {
+    font-size: 2rem;
+  }
+
+  .app-shell {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+}
+
+@media (min-width: 900px) {
+  .bottom-nav {
+    border-radius: 18px 18px 0 0;
+  }
+}
+
+@media (max-width: 380px) {
+  .nav-card {
+    min-height: 98px;
+    padding: 0.85rem 0.7rem;
+  }
+
+  .brand-title {
+    font-size: 1.2rem;
+  }
+
+  .cooking-step p {
+    font-size: 1.2rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .view,
+  .nav-card,
+  .toast {
+    animation: none !important;
+    transition: none !important;
+  }
+}

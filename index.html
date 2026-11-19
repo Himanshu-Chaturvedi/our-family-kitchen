@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#2f6b4f" />
+  <meta name="description" content="हमारा रसोई घर — Jaunpur to Jaipur family vegetarian recipes. Simple kitchen app for Mom." />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="assets/icons/icon-192.png" />
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.png" />
+  <title>❤️ हमारा रसोई घर | Our Family Kitchen</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/responsive.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-title">❤️ हमारा रसोई घर</div>
+        <div class="brand-sub">Jaunpur × Jaipur Family Kitchen</div>
+      </div>
+      <div class="top-actions">
+        <label class="search-box">
+          <span aria-hidden="true">🔍</span>
+          <input id="global-search" type="search" placeholder="Search · खोजें (मटर, nimona…)" enterkeyhint="search" />
+        </label>
+        <button class="icon-btn" id="btn-search" aria-label="Search">➜</button>
+        <button class="icon-btn" data-go="#/settings" aria-label="Settings">⚙️</button>
+      </div>
+      <div id="offline-pill" class="offline-pill">📡 Offline mode — recipes still work</div>
+    </header>
+
+    <!-- HOME -->
+    <section id="view-home" class="view active">
+      <div class="hero">
+        <h1>आज क्या बनाएं?</h1>
+        <p>Tap a meal. Pick a sabzi. Cook with confidence.</p>
+        <button class="season-chip" id="season-chip">🌿 Seasonal suggestion</button>
+      </div>
+
+      <div class="nav-grid">
+        <button class="nav-card accent-orange" data-go="#/category/Breakfast"><span class="emoji">🌅</span><span class="en">Breakfast</span><span class="hi">नाश्ता</span></button>
+        <button class="nav-card accent-green" data-go="#/category/Lunch"><span class="emoji">☀️</span><span class="en">Lunch</span><span class="hi">दोपहर का खाना</span></button>
+        <button class="nav-card accent-green" data-go="#/category/Dinner"><span class="emoji">🌙</span><span class="en">Dinner</span><span class="hi">रात का खाना</span></button>
+        <button class="nav-card" data-go="#/category/Evening%20Snacks"><span class="emoji">🫖</span><span class="en">Evening Snacks</span><span class="hi">शाम का नाश्ता</span></button>
+        <button class="nav-card accent-orange" data-go="#/category/Purvanchal%20Special"><span class="emoji">🏡</span><span class="en">Purvanchal Special</span><span class="hi">हमारा खास खाना</span></button>
+        <button class="nav-card" data-go="#/category/Rajasthani%20Special"><span class="emoji">🏜️</span><span class="en">Rajasthani Special</span><span class="hi">राजस्थानी</span></button>
+        <button class="nav-card" data-go="#/category/Sweets" style="grid-column: span 2;"><span class="emoji">🍮</span><span class="en">Sweets</span><span class="hi">मिठाई</span></button>
+      </div>
+
+      <h2 class="section-title">Quick helpers</h2>
+      <div class="tool-list">
+        <button class="tool-btn" data-go="#/finder"><span class="emoji">🥬</span><div><strong>घर में क्या सब्जी है?</strong><span>Ingredient finder</span></div></button>
+        <button class="tool-btn" data-go="#/random"><span class="emoji">🎲</span><div><strong>आज कुछ अलग बनाएं</strong><span>Random recipe</span></div></button>
+        <button class="tool-btn" data-go="#/favourites"><span class="emoji">❤️</span><div><strong>Favourite Recipes</strong><span>पसंदीदा रेसिपी</span></div></button>
+        <button class="tool-btn" data-go="#/recent"><span class="emoji">🕘</span><div><strong>Recently Cooked</strong><span>हाल ही में बनाई</span></div></button>
+        <button class="tool-btn" data-go="#/planner"><span class="emoji">📅</span><div><strong>Weekly Meal Planner</strong><span>सप्ताह की योजना</span></div></button>
+        <button class="tool-btn" data-go="#/shopping"><span class="emoji">🛒</span><div><strong>Shopping List</strong><span>बाजार सूची</span></div></button>
+        <button class="tool-btn" data-go="#/all"><span class="emoji">📖</span><div><strong>All Recipes</strong><span>सभी व्यंजन</span></div></button>
+      </div>
+    </section>
+
+    <!-- LIST -->
+    <section id="view-list" class="view">
+      <div class="page-header">
+        <button class="back-btn" data-go="#/home">←</button>
+        <h2 id="list-title">Recipes</h2>
+      </div>
+      <div class="filters-row">
+        <button class="chip" id="clear-filters">Clear filters</button>
+      </div>
+      <div id="recipe-list" class="recipe-list"></div>
+    </section>
+
+    <!-- RECIPE -->
+    <section id="view-recipe" class="view"></section>
+
+    <!-- COOKING -->
+    <section id="view-cooking" class="view"></section>
+
+    <!-- FINDER -->
+    <section id="view-finder" class="view">
+      <div class="page-header">
+        <button class="back-btn" data-go="#/home">←</button>
+        <h2>घर में क्या सब्जी है?</h2>
+      </div>
+      <p class="meta">Select what you have. Large buttons for easy tapping.</p>
+      <div class="match-mode">
+        <button class="chip active" data-mode="any">Match ANY</button>
+        <button class="chip" data-mode="all">Match ALL</button>
+        <button class="chip" id="clear-finder">Clear</button>
+      </div>
+      <div id="finder-chips" class="ing-grid"></div>
+      <h3 class="section-title">Matching recipes</h3>
+      <div id="finder-results" class="recipe-list"></div>
+    </section>
+
+    <!-- PLANNER -->
+    <section id="view-planner" class="view">
+      <div class="page-header">
+        <button class="back-btn" data-go="#/home">←</button>
+        <h2>Weekly Meal Planner</h2>
+      </div>
+      <button class="btn btn-secondary btn-block" id="btn-auto-plan">✨ Auto-fill week</button>
+      <button class="btn btn-primary btn-block" id="gen-shop" style="margin-top:0.5rem">🛒 Generate shopping list</button>
+      <div id="planner-root" style="margin-top:0.9rem"></div>
+    </section>
+
+    <!-- SHOPPING -->
+    <section id="view-shopping" class="view">
+      <div class="page-header">
+        <button class="back-btn" data-go="#/home">←</button>
+        <h2>Shopping List · बाज़ार</h2>
+      </div>
+      <div class="panel">
+        <div style="display:flex;gap:0.5rem">
+          <input id="custom-shop-name" placeholder="Add custom item" style="flex:1;padding:0.7rem;border-radius:12px;border:1px solid var(--border)" />
+          <button class="btn btn-primary" id="add-shop-item">Add</button>
+        </div>
+      </div>
+      <div id="shopping-list" class="panel"></div>
+    </section>
+
+    <!-- SETTINGS -->
+    <section id="view-settings" class="view">
+      <div class="page-header">
+        <button class="back-btn" data-go="#/home">←</button>
+        <h2>Settings · सेटिंग्स</h2>
+      </div>
+      <div class="settings-list">
+        <button class="tool-btn" id="btn-export"><span class="emoji">💾</span><div><strong>Export backup</strong><span>Download your favourites & planner</span></div></button>
+        <button class="tool-btn" id="btn-import"><span class="emoji">📥</span><div><strong>Import backup</strong><span>Restore from JSON file</span></div></button>
+        <input type="file" id="import-file" accept="application/json" class="hidden" />
+        <button class="tool-btn" id="btn-reset"><span class="emoji">♻️</span><div><strong>Reset preferences</strong><span>Clear local favourites & lists</span></div></button>
+      </div>
+      <div class="panel" style="margin-top:1rem">
+        <p><strong>Our Family Kitchen</strong></p>
+        <p class="meta">Jaunpur to Jaipur · Vegetarian home recipes · Works offline after first load · Free on GitHub Pages</p>
+      </div>
+    </section>
+  </div>
+
+  <nav class="bottom-nav" aria-label="Main">
+    <button data-nav="home" class="active"><span class="emoji">🏠</span>Home</button>
+    <button data-nav="finder"><span class="emoji">🥬</span>Sabzi</button>
+    <button data-nav="favourites"><span class="emoji">❤️</span>Fav</button>
+    <button data-nav="planner"><span class="emoji">📅</span>Plan</button>
+    <button data-nav="shopping"><span class="emoji">🛒</span>List</button>
+  </nav>
+
+  <div id="toast" class="toast" role="status"></div>
+
+  <script src="js/storage.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/filters.js"></script>
+  <script src="js/planner.js"></script>
+  <script src="js/shopping.js"></script>
+  <script src="js/cooking-mode.js"></script>
+  <script src="js/router.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

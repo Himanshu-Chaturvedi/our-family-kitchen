@@ -1,0 +1,586 @@
+{
+  "ingredients": [
+    {
+      "id": "potato",
+      "name": "Potato",
+      "nameHi": "आलू",
+      "category": "Potato"
+    },
+    {
+      "id": "paneer",
+      "name": "Paneer",
+      "nameHi": "पनीर",
+      "category": "Paneer"
+    },
+    {
+      "id": "green-peas",
+      "name": "Green Peas",
+      "nameHi": "मटर",
+      "category": "Matar"
+    },
+    {
+      "id": "bhindi",
+      "name": "Okra",
+      "nameHi": "भिंडी",
+      "category": "Bhindi"
+    },
+    {
+      "id": "lauki",
+      "name": "Bottle Gourd",
+      "nameHi": "लौकी",
+      "category": "Lauki"
+    },
+    {
+      "id": "cauliflower",
+      "name": "Cauliflower",
+      "nameHi": "गोभी",
+      "category": "Gobhi"
+    },
+    {
+      "id": "eggplant",
+      "name": "Eggplant",
+      "nameHi": "बैंगन",
+      "category": "Baingan"
+    },
+    {
+      "id": "tinda",
+      "name": "Tinda",
+      "nameHi": "टिंडा",
+      "category": "Tinda"
+    },
+    {
+      "id": "parwal",
+      "name": "Pointed Gourd",
+      "nameHi": "परवल",
+      "category": "Parwal"
+    },
+    {
+      "id": "pumpkin",
+      "name": "Pumpkin",
+      "nameHi": "कद्दू",
+      "category": "Kaddu"
+    },
+    {
+      "id": "karela",
+      "name": "Bitter Gourd",
+      "nameHi": "करेला",
+      "category": "Karela"
+    },
+    {
+      "id": "spinach",
+      "name": "Spinach",
+      "nameHi": "पालक",
+      "category": "Palak"
+    },
+    {
+      "id": "methi",
+      "name": "Fenugreek Leaves",
+      "nameHi": "मेथी",
+      "category": "Methi"
+    },
+    {
+      "id": "mushroom",
+      "name": "Mushroom",
+      "nameHi": "मशरूम",
+      "category": "Mushroom"
+    },
+    {
+      "id": "chickpea",
+      "name": "Chickpeas",
+      "nameHi": "चना",
+      "category": "Chana"
+    },
+    {
+      "id": "kala-chana",
+      "name": "Black Chickpeas",
+      "nameHi": "काला चना",
+      "category": "Chana"
+    },
+    {
+      "id": "chana-dal",
+      "name": "Chana Dal",
+      "nameHi": "चना दाल",
+      "category": "Dal"
+    },
+    {
+      "id": "rajma",
+      "name": "Kidney Beans",
+      "nameHi": "राजमा",
+      "category": "Rajma"
+    },
+    {
+      "id": "lobia",
+      "name": "Black-eyed Peas",
+      "nameHi": "लोबिया",
+      "category": "Lobia"
+    },
+    {
+      "id": "sattu",
+      "name": "Roasted Gram Flour",
+      "nameHi": "सत्तू",
+      "category": "Sattu"
+    },
+    {
+      "id": "rice",
+      "name": "Rice",
+      "nameHi": "चावल",
+      "category": "Rice"
+    },
+    {
+      "id": "toor-dal",
+      "name": "Toor Dal",
+      "nameHi": "अरहर दाल",
+      "category": "Dal"
+    },
+    {
+      "id": "moong-dal",
+      "name": "Moong Dal",
+      "nameHi": "मूंग दाल",
+      "category": "Dal"
+    },
+    {
+      "id": "masoor-dal",
+      "name": "Masoor Dal",
+      "nameHi": "मसूर दाल",
+      "category": "Dal"
+    },
+    {
+      "id": "urad-dal",
+      "name": "Urad Dal",
+      "nameHi": "उड़द दाल",
+      "category": "Dal"
+    },
+    {
+      "id": "wheat-flour",
+      "name": "Wheat Flour",
+      "nameHi": "गेहूं का आटा",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "besan",
+      "name": "Gram Flour",
+      "nameHi": "बेसन",
+      "category": "Dal"
+    },
+    {
+      "id": "onion",
+      "name": "Onion",
+      "nameHi": "प्याज",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "tomato",
+      "name": "Tomato",
+      "nameHi": "टमाटर",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "carrot",
+      "name": "Carrot",
+      "nameHi": "गाजर",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "radish",
+      "name": "Radish",
+      "nameHi": "मूली",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "cabbage",
+      "name": "Cabbage",
+      "nameHi": "पत्ता गोभी",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "capsicum",
+      "name": "Capsicum",
+      "nameHi": "शिमला मिर्च",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "beans",
+      "name": "French Beans",
+      "nameHi": "बीन्स",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "corn",
+      "name": "Corn",
+      "nameHi": "मक्का",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "soya",
+      "name": "Soya Chunks",
+      "nameHi": "सोया",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "poha",
+      "name": "Flattened Rice",
+      "nameHi": "पोहा",
+      "category": "Rice"
+    },
+    {
+      "id": "suji",
+      "name": "Semolina",
+      "nameHi": "सूजी",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "vermicelli",
+      "name": "Vermicelli",
+      "nameHi": "सेवई",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "daliya",
+      "name": "Broken Wheat",
+      "nameHi": "दलिया",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "bread",
+      "name": "Bread",
+      "nameHi": "ब्रेड",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "bajra",
+      "name": "Pearl Millet Flour",
+      "nameHi": "बाजरा आटा",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "curd",
+      "name": "Curd",
+      "nameHi": "दही",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "milk",
+      "name": "Milk",
+      "nameHi": "दूध",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "ghee",
+      "name": "Ghee",
+      "nameHi": "घी",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "mustard-oil",
+      "name": "Mustard Oil",
+      "nameHi": "सरसों का तेल",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "oil",
+      "name": "Cooking Oil",
+      "nameHi": "तेल",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger",
+      "nameHi": "अदरक",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "garlic",
+      "name": "Garlic",
+      "nameHi": "लहसुन",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "green-chilli",
+      "name": "Green Chilli",
+      "nameHi": "हरी मिर्च",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "coriander",
+      "name": "Coriander Leaves",
+      "nameHi": "धनिया",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "cumin",
+      "name": "Cumin Seeds",
+      "nameHi": "जीरा",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "turmeric",
+      "name": "Turmeric",
+      "nameHi": "हल्दी",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "red-chilli",
+      "name": "Red Chilli Powder",
+      "nameHi": "लाल मिर्च",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "garam-masala",
+      "name": "Garam Masala",
+      "nameHi": "गरम मसाला",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "coriander-powder",
+      "name": "Coriander Powder",
+      "nameHi": "धनिया पाउडर",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "amchur",
+      "name": "Dry Mango Powder",
+      "nameHi": "अमचूर",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "asafoetida",
+      "name": "Asafoetida",
+      "nameHi": "हींग",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "mustard-seeds",
+      "name": "Mustard Seeds",
+      "nameHi": "राई",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "ajwain",
+      "name": "Carom Seeds",
+      "nameHi": "अजवाइन",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "kasuri-methi",
+      "name": "Dried Fenugreek",
+      "nameHi": "कसूरी मेथी",
+      "category": "Methi"
+    },
+    {
+      "id": "cream",
+      "name": "Fresh Cream",
+      "nameHi": "मलाई",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "butter",
+      "name": "Butter",
+      "nameHi": "मक्खन",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "cashew",
+      "name": "Cashew",
+      "nameHi": "काजू",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "sugar",
+      "name": "Sugar",
+      "nameHi": "चीनी",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "jaggery",
+      "name": "Jaggery",
+      "nameHi": "गुड़",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "salt",
+      "name": "Salt",
+      "nameHi": "नमक",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "lemon",
+      "name": "Lemon",
+      "nameHi": "नींबू",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "peanuts",
+      "name": "Peanuts",
+      "nameHi": "मूंगफली",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "coconut",
+      "name": "Coconut",
+      "nameHi": "नारियल",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "sev",
+      "name": "Sev",
+      "nameHi": "सेव",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "papad",
+      "name": "Papad",
+      "nameHi": "पापड़",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "ker",
+      "name": "Ker Berries",
+      "nameHi": "केर",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "sangri",
+      "name": "Sangri Beans",
+      "nameHi": "सांगरी",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "mangodi",
+      "name": "Mangodi",
+      "nameHi": "मंगोड़ी",
+      "category": "Dal"
+    },
+    {
+      "id": "badi",
+      "name": "Urad Badi",
+      "nameHi": "बड़ी",
+      "category": "Dal"
+    },
+    {
+      "id": "boondi",
+      "name": "Boondi",
+      "nameHi": "बूंदी",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "pav",
+      "name": "Pav Buns",
+      "nameHi": "पाव",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "noodles",
+      "name": "Noodles",
+      "nameHi": "नूडल्स",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "maida",
+      "name": "Refined Flour",
+      "nameHi": "मैदा",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "yeast",
+      "name": "Yeast / Idli Rice Batter",
+      "nameHi": "खमीर / बैटर",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "idli-rice",
+      "name": "Idli Rice",
+      "nameHi": "इडली चावल",
+      "category": "Rice"
+    },
+    {
+      "id": "tamarind",
+      "name": "Tamarind",
+      "nameHi": "इमली",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "curry-leaves",
+      "name": "Curry Leaves",
+      "nameHi": "करी पत्ता",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "fennel",
+      "name": "Fennel Seeds",
+      "nameHi": "सौंफ",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "cardamom",
+      "name": "Cardamom",
+      "nameHi": "इलायची",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "cinnamon",
+      "name": "Cinnamon",
+      "nameHi": "दालचीनी",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "clove",
+      "name": "Cloves",
+      "nameHi": "लौंग",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "bay-leaf",
+      "name": "Bay Leaf",
+      "nameHi": "तेज पत्ता",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "saffron",
+      "name": "Saffron",
+      "nameHi": "केसर",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "raisins",
+      "name": "Raisins",
+      "nameHi": "किशमिश",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "almonds",
+      "name": "Almonds",
+      "nameHi": "बादाम",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "khoya",
+      "name": "Khoya",
+      "nameHi": "खोया",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "hung-curd",
+      "name": "Hung Curd",
+      "nameHi": "छाछ/गाढ़ा दही",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "chutney",
+      "name": "Chutney Ingredients",
+      "nameHi": "चटनी सामग्री",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "pickle-masala",
+      "name": "Pickle Masala",
+      "nameHi": "अचार मसाला",
+      "category": "Seasonal vegetables"
+    },
+    {
+      "id": "wheat-dough",
+      "name": "Wheat Dough",
+      "nameHi": "आटे का आटा",
+      "category": "Seasonal vegetables"
+    }
+  ]
+}
