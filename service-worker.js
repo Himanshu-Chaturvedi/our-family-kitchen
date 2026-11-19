@@ -1,4 +1,4 @@
-const CACHE = "family-kitchen-v4";
+const CACHE = "family-kitchen-v5";
 const ASSETS = [
   "./",
   "./index.html",

@@ -107,6 +107,7 @@
   }
 
   function renderHome() {
+    if (Router.clearStack) Router.clearStack();
     showView("home");
     const season = currentSeason();
     $("#season-chip").textContent = `🌿 ${season} suggestion: try seasonal sabzi & soups`;
@@ -940,14 +941,19 @@
       if (goEl) {
         e.preventDefault();
         const target = goEl.getAttribute("data-go");
-        if (target) Router.go(target);
+        if (!target) return;
+        // From dashboard cards: start a clean flow (Home under the stack only)
+        if (target === "#/home") Router.go(target, { reset: true });
+        else if (target === "#/dk" || target.startsWith("#/dk")) Router.go(target);
+        else Router.go(target);
         return;
       }
       const navBtn = e.target.closest(".bottom-nav button[data-nav]");
       if (navBtn) {
         e.preventDefault();
         const nav = navBtn.getAttribute("data-nav");
-        Router.go("#/" + nav, { replace: nav === "home" });
+        // Bottom tabs always reset history — no cross-tab back chain
+        Router.go("#/" + nav, { reset: true });
       }
     });
     const dkBtn = $("#btn-dk-care");
@@ -955,7 +961,7 @@
       dkBtn.addEventListener("click", (e) => {
         e.preventDefault();
         e.stopPropagation();
-        Router.go("#/dk");
+        Router.go("#/dk", { reset: true });
       });
     }
     $("#clear-finder").onclick = () => {
@@ -1037,7 +1043,7 @@
     Router.notify();
     if ("serviceWorker" in navigator) {
       try {
-        const reg = await navigator.serviceWorker.register("./service-worker.js?v=4");
+        const reg = await navigator.serviceWorker.register("./service-worker.js?v=5");
         if (reg && reg.update) reg.update();
       } catch (e) {
         console.warn("SW registration failed", e);
